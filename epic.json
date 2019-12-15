@@ -5,19 +5,69 @@
         "icon": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png"
     },
     {
-        "link": "https://store.epicgames.com/{{CREATORCODE}}/layers-of-fear",
-        "name": "Layers of Fear",
-        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_Aspyr_LOFME_IC2_Icon-400x400-5e2d86c3d0adfa822b0169ee28503638094dd1b5.png"
-    },
-    {
-        "link": "https://store.epicgames.com/{{CREATORCODE}}/red-dead-redemption-2",
-        "name": "Red Dead Redemption 2",
-        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_RockstarGames_RedDeadRedemption2_IC4-400x400-feeb66b29159232bf35a8076cb0752ca9b54003d.png"
-    },
-    {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/star-wars-jedi-fallen-order",
         "name": "Star Wars Jedi Fallen Order",
         "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FJFO_Logo-640x414-4b07ecc81a7a653d5364d499f3b0bb9f49f757fa.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/watch-dogs-2",
+        "name": "Watch Dogs 2",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2FWD2-Game-Icon-400x400-e030c84f35121f2fddcc8e03fb043a90d1b63b44.jpg"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/battle-breakers",
+        "name": "Battle Breakers",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FBB_EGS_Launcher_IC2-400x400-400x400-d18d7aaf5558eb6c5803062158c76f84c28eacab.jpg"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/foregone",
+        "name": "Foregone",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_BigBlueBubble_Foregone_IC2-128x128-d7fb00525beae2a39fc9c7944eab023203b8ced7.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/bloodroots",
+        "name": "Bloodroots",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_PaperCult_Bloodroots_IC2-128x128-1fe1c7efb56534b56bf558c45e7339036c966f34.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/jotun",
+        "name": "Jotun Valhalla Edition",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_ThunderLotus_JotunValhallaEdition_IC2-128x128-128x128-b1cce34c3247ac7c72f8129c3e93141a10b28d12.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/supermash",
+        "name": "SuperMash",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_DigitalContinue_SuperMash_IC2-128x128-128x128-a30f20027379d4029ae6cabd8186356a453abc5e.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/predator-hunting-grounds",
+        "name": "Predator: Hunting Grounds",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FCRE1089_Predator_Epic_Store_STD_640x478_001_TH-640x478-a4b5b02e67f19291bbe1f4b243a22e7cce968e81.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/rayman-legends",
+        "name": "Rayman Legends",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FRAYL_Newsfeed_Game_Icon_400x400-400x400-6dcc834d3e72baaa6eef740cbe8da478ec5d60b1.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/the-crew-2",
+        "name": "The Crew 2",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FCrew2_Newsfeed_Game_Icon_400x400-400x400-7230c72b4abfb7d33f77283aa6a92e74f22bfb1e.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/bad-north",
+        "name": "Bad North",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_PLAUSIBLE_CONCEPT_BAD_NORTH_G2_DESCRIPTION-1000x840-1000x840-a72cd3da8dde8731accff5b1da1cfac7e586ed46.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/assassins-creed-origins",
+        "name": "Assassin's Creed Origins",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FACOrigins_Newsfeed_Game_Icon_400x400-400x400-8792e131cf1e48384e4cda90e5159311579bf373.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/the-messenger",
+        "name": "The Messenger",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_Sabotage_TheMessenger_IC2_SocialPresenceIcon-128x128-66c47732902fa73336a729ff349a4cf0d4d77a17.png"
     },
     {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/Nuclear Throne",
@@ -50,6 +100,11 @@
         "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FSUPERLIMINAL_Portrait-1280x1440-55ac46ac9be36cd9c36a7ccff392bc7d30a7066f.jpg"
     },
     {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/layers-of-fear",
+        "name": "Layers of Fear",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_Aspyr_LOFME_IC2_Icon-400x400-5e2d86c3d0adfa822b0169ee28503638094dd1b5.png"
+    },
+    {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/q-u-b-e-2",
         "name": "Q.U.B.E. 2",
         "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_TOXICGAMES_QUBE2_IC2_COLOUR-400x400-6b7d39040d052e79b80e87e530e71615f39c0e1a.png"
@@ -63,6 +118,11 @@
         "link": "https://store.epicgames.com/{{CREATORCODE}}/observer",
         "name": "Observer",
         "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_Aspyr_OBS_IC2_Icon-400x400-fc7ef6533d65b8434504774220b146bf59b468af.jpg"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/red-dead-redemption-2",
+        "name": "Red Dead Redemption 2",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_RockstarGames_RedDeadRedemption2_IC4-400x400-feeb66b29159232bf35a8076cb0752ca9b54003d.png"
     },
     {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/phoenix-point",
@@ -528,11 +588,6 @@
         "link": "https://store.epicgames.com/{{CREATORCODE}}/dangerous-driving",
         "name": "Dangerous Driving",
         "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2FDangerousDrivingIcon-400x400-ef87cd3ca8467138c213339ebaf75e2a3e7408db.png"
-    },
-    {
-        "link": "https://store.epicgames.com/{{CREATORCODE}}/watch-dogs-2",
-        "name": "Watch Dogs 2",
-        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2FWD2-Game-Icon-400x400-e030c84f35121f2fddcc8e03fb043a90d1b63b44.jpg"
     },
     {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/ghost-recon-wildlands",
