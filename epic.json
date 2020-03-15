@@ -1,8 +1,53 @@
 [
     {
-        "link": "https://store.epicgames.com/{{CREATORCODE}}/zombie-army-4-dead-war",
-        "name": "Zombie Army 4: Dead War",
-        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_product_sparrow_home_EGS_REBELLION_ZOMBIEARMY4_IC2_ICON-400x400-2b3e02a805feb50212149f2b3b7ac63052d8d7c5-400x400-d3f8422153c26e8b252f10839806cb9cc4388cbc.png"
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/state-of-decay-2-juggernaut-edition",
+        "name": "State of Decay 2: Juggernaut Edition",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_StateofDecay2JuggernautEdition_UndeadLabs_IC2-128x128-bed2b1a5182ca038277fe08a43e9586b112c1eb9.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/far-cry-4",
+        "name": "FAR CRY 4",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FFC4_SocialPresence-354x151-0f3f343cf71cd69c68101b88f1b7fcc622a42904.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/far-cry-3",
+        "name": "Far Cry3",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FLogosFC3_STD-1000x375-4639bc16e1d1516afce53ea1a7b0d500089bb6f1.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/far-cry-new-dawn",
+        "name": "Far Cry New Dawn",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FFCNewDawn_Newsfeed_Game_Icon_400x400-400x400-8da980f078ce366e6573f6c902c5fc27dd4ccdc8.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/far-cry-5",
+        "name": "Far Cry 5",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FFC5_Newsfeed_Game_Icon_400x400-400x400-120b3abb8f7829b2af0c3f5cdaa0383ab41c26a7.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/far-cry-3-blood-dragon",
+        "name": "Far Cry 3: Blood Dragon",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FFarCry3BloodDragon_Newsfeed_Game_Icon_400x400-400x400-dee031f27dc96d776c58bbf7fed09ba5c39e14b0.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/assassins-creed-syndicate",
+        "name": "Assassin's Creed Syndicate",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FACBF_FC_Newsfeed_Game_Icon_400x400-400x400-4513878f8376bba1c3aaf8a08587078ef4ee0efc.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/faeria",
+        "name": "Faeria",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FFaeria_MainGame_EpicGamesStore_IC2_Logo_Icon_ApprovedPublic-400x400-744c101cd61e91456b2f33185732f188a8f56f5d.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/kingdom-come-deliverance",
+        "name": "Kingdom Come: Deliverance",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_WarhorseStudios_KingdomComeDeliverance_IC2-128x128-7731759eefa186631e0304a9999f2bd4c7f56779.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/anno-2205",
+        "name": "Anno 2205",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_productv2_anno-2205_home_Anno_Logo-1148x329-67f96d7eb8f63ad9abfb423168bcf4938187bafb-1148x329-4b46e115bb98dce70f8a50a7fb4f8f22e4e2715e.png"
     },
     {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/snowrunner",
@@ -38,6 +83,11 @@
         "link": "https://store.epicgames.com/{{CREATORCODE}}/conarium",
         "name": "Conarium",
         "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FConarium-400x400-31245cbb6b36841c3d235a61663ae07d9821c518.PNG"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/zombie-army-4-dead-war",
+        "name": "Zombie Army 4: Dead War",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_product_sparrow_home_EGS_REBELLION_ZOMBIEARMY4_IC2_ICON-400x400-2b3e02a805feb50212149f2b3b7ac63052d8d7c5-400x400-d3f8422153c26e8b252f10839806cb9cc4388cbc.png"
     },
     {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/the-bridge",
@@ -877,7 +927,7 @@
     {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/fortnite",
         "name": "Fortnite",
-        "icon": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png"
+        "icon": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffortnite%2Fhome%2F12BR_EGS_Launcher_IC2-400x400-1cf087fb2f87330cac252f26edf88f5b2fbb588c.png"
     },
     {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/hades",
