@@ -1,5 +1,25 @@
 [
     {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/assassins-creed-rogue",
+        "name": "Assassin's Creed Rogue",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_productv2_assassins-creed-rogue_home_ACRG_Logo_Color_1000x375-1000x375-087ce6258061ea8fe709d60ea2b0282654778de5-1000x375-ce0bfe8533b5a4f711571dd6bbd859e67e095d15.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/anodyne-2-return-to-dust",
+        "name": "Anodyne 2: Return to Dust",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_Anodyne2ReturntoDust_AnalgesicProductions_IC2-128x128-128x128-31296bc35de639a20e49215e0b2508c6d527649e.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/a-short-hike",
+        "name": "A Short Hike",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_productv2_a-short-hike_home_EGS_AShortHike_AdamRobinsonYu_IC2-128x128-128x128-39bcbfbec3f2d09b209c848647db229253d0d385.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/mutazione",
+        "name": "Mutazione",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_productv2_mutazione_home_EGS_Mutazione_DieGuteFabrik_IC2-128x128-128x128-c0f98044dbef1fb615d4b869b5b661317ed6e3d9.png"
+    },
+    {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/state-of-decay-2-juggernaut-edition",
         "name": "State of Decay 2: Juggernaut Edition",
         "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_StateofDecay2JuggernautEdition_UndeadLabs_IC2-128x128-bed2b1a5182ca038277fe08a43e9586b112c1eb9.png"
