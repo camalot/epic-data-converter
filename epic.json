@@ -1,13 +1,63 @@
 [
     {
-        "link": "https://store.epicgames.com/{{CREATORCODE}}/borderlands-3",
-        "name": "Borderlands 3",
-        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FOak_GameIcon_400x400-400x400-bb059ab85303f0f281d595bc4efb6c68c6e98734.png"
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/cd14dcaa4f3443f19f7169a980559c62",
+        "name": "cd14dcaa4f3443f19f7169a980559c62",
+        "icon": null
     },
     {
-        "link": "https://store.epicgames.com/{{CREATORCODE}}/totally-reliable-delivery-service",
-        "name": "Totally Reliable Delivery Service",
-        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_productv2_totally-reliable-delivery-service_home_EGS_WereFiveGames_TotallyReliableDeliveryService_IC1_Black-200x170-f332a7cfc50e157c1ed84524d777a2550b99d6cf-200x170-541f03b818953755debd0e3a15027a8e3fd79f0d.png"
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/grand-theft-auto-v",
+        "name": "Grand Theft Auto V: Premium Edition",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FGTAV_EGS_Artwork_400x400_GameLogo-1000x1000-f6c47a98454049a5e63959f7b6f898c4fc22829c.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/mafia-definitive-edition",
+        "name": "Mafia: Definitive Edition",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_MafiaDefinitiveEditionPreOrder_Hangar13_IC1-200x69-8d977b5cc3662ea5b3173641f258f9b784c0d2ed.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/mafia-trilogy",
+        "name": "Mafia: Trilogy",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_MafiaTrilogy_Hangar13_IC2-128x128-e3ffad8abec0b300c5e88c312a815613c7e44bfe.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/death-coming",
+        "name": "Death Coming",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_DeathComing_NExTStudios_IC2-128x128-098e69f7534bf69ffd08df2967daf4db5dacf088.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/the-witcher-3-wild-hunt",
+        "name": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_TheWitcher3WildHuntGameoftheYear_CDPROJEKTRED_IC2-128x128-87fbbab72f7835c599764ae0ed04faa9cc5668b3.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/tony-hawks-pro-skater-1-and-2",
+        "name": "Tony Hawk's Pro Skater 1 + 2",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_TonyHawksProSkater12_VicariousVisions_IC2-128x128-42a191071455a81de59111b20b1cc28936ca36a7.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/huntdown",
+        "name": "Huntdown",
+        "icon": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fhuntdown%2Fhome%2FEGS_Huntdown_EasyTriggerGames_IC2-128x128-a9e6321503a38dee80e3e1cd74bd743af8fbb2bb.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/before-we-leave",
+        "name": "Before We Leave",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_BalancingMonkeyGames_BeforeWeLeave_IC2-128x128-9b8fb46183fcc0ef385aab14e110a5ee1081df30.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/paladins",
+        "name": "Paladins",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_productv2_paladins_home_EGS_Paladins_EvilMojoGames_IC2-128x128-407645a3bbe2046dd3d25c62910865565ffb0cec-128x128-351159d21bda384078f42b93a980e25c4ab6ab19.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/crashlands",
+        "name": "Crashlands",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_productv2_crashlands_home_EGS_Crashlands_ButterscotchShenanigans_IC2-128x128-4f77c9202648c0b2b4583ebeb860abc4ee2c7df4-128x128-fde5ab99e9f6730ad06b62064e01486caf214d3f.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/amnesia-the-dark-descent",
+        "name": "Amnesia: The Dark Descent",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_productv2_amnesia-the-dark-descent_home_EGS_AmnesiaTheDarkDescent_FrictionalGames_IC2-128x128-db5df2ac068902b1410053a7354842970909461e-128x128-68a792e4508c822bfdc373f9d0e92966c14a2818.png"
     },
     {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/for-the-king/",
@@ -73,6 +123,11 @@
         "link": "https://store.epicgames.com/{{CREATORCODE}}/figment",
         "name": "Figment",
         "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_productv2_figment_home_EGS_Figment_BedtimeDigitalGames_IC1-200x64-5b7f8136a7b71141347e2f3f92910c37f5ecb430-200x64-51a5319ceb19bceb5444b4be47249d1f60480eb6.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/totally-reliable-delivery-service",
+        "name": "Totally Reliable Delivery Service",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FDiesel_productv2_totally-reliable-delivery-service_home_EGS_WereFiveGames_TotallyReliableDeliveryService_IC1_Black-200x170-f332a7cfc50e157c1ed84524d777a2550b99d6cf-200x170-541f03b818953755debd0e3a15027a8e3fd79f0d.png"
     },
     {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/uno",
@@ -713,6 +768,11 @@
         "link": "https://store.epicgames.com/{{CREATORCODE}}/the-outer-worlds",
         "name": "The Outer Worlds",
         "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FOuterWorlds-1000x813-067946043f9b6166a9decfb5c19dc58db6a0b8a9.png"
+    },
+    {
+        "link": "https://store.epicgames.com/{{CREATORCODE}}/borderlands-3",
+        "name": "Borderlands 3",
+        "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FOak_GameIcon_400x400-400x400-bb059ab85303f0f281d595bc4efb6c68c6e98734.png"
     },
     {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/cyberpunk-2077",
