@@ -27,11 +27,12 @@ def main(infile, outfile):
                 link = group['link'].replace("/darthminos/", "/{{CREATORCODE}}/")
             name = group['name'].replace("\u00c2\u00ae", "").replace("\u00e2\u201e\u00a2", "")
             icon = group['icon']
-            epicData.append({
-                "link": link,
-                "name": name,
-                "icon": icon
-            })
+            if icon:
+                epicData.append({
+                    "link": link,
+                    "name": name,
+                    "icon": icon
+                })
     with open(outfile, 'w') as out_file:
         json.dump(epicData, out_file)
 
