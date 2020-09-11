@@ -1,10 +1,5 @@
 [
     {
-        "link": "https://store.epicgames.com/{{CREATORCODE}}/53310576ce1d4446b20dbbdac4f09f2d",
-        "name": "53310576ce1d4446b20dbbdac4f09f2d",
-        "icon": null
-    },
-    {
         "link": "https://store.epicgames.com/{{CREATORCODE}}/gods-and-monsters",
         "name": "Gods & Monsters",
         "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FG%26M_Game_Icon_400x400-400x400-d4c200b9501c2fc036f70bd98ceeae0610d8ed9e.png"
