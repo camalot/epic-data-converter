@@ -9,7 +9,7 @@ import time
 import shutil
 import tempfile
 import click
-
+import requests
 
 @click.command()
 @click.argument('infile', default=None)
