@@ -1,13 +1,153 @@
 [
   {
-    "link": "https://store.epicgames.com/{{CREATORCODE}}/rogue-company",
-    "name": "Rogue Company",
-    "icon": "https://cdn2.unrealengine.com/egs-roguecompany-firstwatchgames-ic2-128x128-164408863.png"
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/oddworld-new-n-tasty",
+    "name": "Oddworld: New 'n' Tasty",
+    "icon": "https://cdn2.unrealengine.com/egs-oddworldnewntasty-justaddwater-ic2-128x128-132c960a068e.png"
   },
   {
-    "link": "https://store.epicgames.com/{{CREATORCODE}}/mudrunner",
-    "name": "Mudrunner",
-    "icon": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fmudrunner%2Fhome%2FMudRunner_EpicGames_SocialPresenceIcon-128x128-aa8b1d4d58ff67dadd28e36004662ccc4b590ffc.png"
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/cities-skylines",
+    "name": "Cities Skylines",
+    "icon": "https://cdn2.unrealengine.com/egs-citiesskylines-colossalorder-ic2-128x128-689705814.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/inside",
+    "name": "Inside",
+    "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_PLAYDEAD_INSIDE_ICON_IC2-400x400-e85596d414ebbac7516f455d85258e6aadb77feb.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/my-time-at-portia",
+    "name": "My Time At Portia",
+    "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2FMyTimeAtPortia_GameIcon-400x400-813b22aae43dfa268b6ded54ca8d024dab2d1d19.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/darkest-dungeon",
+    "name": "Darkest Dungeon",
+    "icon": "https://cdn2.unrealengine.com/egs-darkestdungeon-redhookstudios-s2-1200x1600-1e51e68e0b8b.jpg"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/stranded-deep",
+    "name": "Stranded Deep",
+    "icon": "https://cdn2.unrealengine.com/egs-strandeddeep-beamteamgames-s2-1200x1600-129ab2be7d6a.jpg"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/solitairica",
+    "name": "Solitairica",
+    "icon": "https://cdn2.unrealengine.com/egs-battlemonsterswithsolitaireandmagic-righteoushammergames-ic2-128x128-d47888c9c9f6.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/monkey-barrels",
+    "name": "Monkey Barrels",
+    "icon": "https://cdn2.unrealengine.com/egs-monkeybarrels-goodfeelcoltd-s7-1280x960-570563955.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/jurassic-world-evolution",
+    "name": "Jurassic World Evolution",
+    "icon": "https://cdn2.unrealengine.com/65950659-bd72-4600-8100-09d6d1a8cb93-400x400-c408b0c0a8ca.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/night-in-the-woods",
+    "name": "Night in the Woods",
+    "icon": "https://cdn2.unrealengine.com/egs-nightinthewoods-infinitefall-ic2-128x128-878a174b1bd2.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/tropico-6",
+    "name": "Tropico 6",
+    "icon": "https://cdn2.unrealengine.com/54d54c7f-0ef7-4277-afa5-dce5da5bc63c-400x150-607db75f4a2b.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/tropico-5",
+    "name": "Tropico 5",
+    "icon": "https://cdn2.unrealengine.com/b7bec270-4f98-4697-aae9-284ac55db0ab-400x224-cc407b877e96.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/alien-isolation",
+    "name": "Alien: Isolation",
+    "icon": "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-ic2-128x128-c494c485382b.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/defense-grid",
+    "name": "Defense Grid: The Awakening",
+    "icon": "https://cdn2.unrealengine.com/egs-defensegridtheawakening-hiddenpathentertainment-ic2-128x128-080108653.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/the-long-dark",
+    "name": "The Long Dark",
+    "icon": "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-ic2-128x128-544f587bf884.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/among-us",
+    "name": "Among Us",
+    "icon": "https://cdn2.unrealengine.com/egs-amongus-innersloth-s1-2560x1440-675403774.jpg"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/kosmokrats",
+    "name": "Kosmokrats",
+    "icon": "https://cdn2.unrealengine.com/egs-thepeopleszerogravityadventuregame-pixeldelusion-ic2-128x128-556096966.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/the-flower-collectors",
+    "name": "The Flower Collectors",
+    "icon": "https://cdn2.unrealengine.com/egs-theflowercollectors-mipumigames-ic2-128x128-51f92c94b1cf.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/back-4-blood",
+    "name": "Back 4 Blood",
+    "icon": "https://cdn2.unrealengine.com/egs-back4blooddeluxeedition-turtlerockstudios-editions-ic1-200x200-885d611c9263.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/medieval-dynasty",
+    "name": "Medieval Dynasty",
+    "icon": "https://cdn2.unrealengine.com/egs-medievaldynasty-rendercube-ic2-128x128-2991a7626b0d.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/fell-seal-arbiters-mark",
+    "name": "Fell Seal: Arbiter's Mark",
+    "icon": "https://cdn2.unrealengine.com/egs-fellsealarbitersmark-6eyesstudiollc-ic2-128x128-9f584267af53.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/hyper-scape",
+    "name": "HYPER SCAPE",
+    "icon": "https://cdn2.unrealengine.com/hyperscape-season-2-epic-game-logo-color-1000x375-1000x375-92573012f851.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/disaster-report-4-summer-memories",
+    "name": "Disaster Report 4: Summer Memories",
+    "icon": "https://cdn2.unrealengine.com/bdc21172-373b-4790-8b97-a3da44a78f47-15067x8021-072483181.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/tyranny",
+    "name": "Tyranny",
+    "icon": "https://cdn2.unrealengine.com/133400fd-1d66-4dd5-b906-3febb6131a2d-400x400-674947267.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/pillars-of-eternity",
+    "name": "Pillars of Eternity",
+    "icon": "https://cdn2.unrealengine.com/egs-pillarsofeternitydefinitiveedition-obsidianentertainment-ic2-128x128-589085133.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/calico",
+    "name": "Calico",
+    "icon": "https://cdn2.unrealengine.com/egs-calico-peachykeengames-ic1-400x400-555511164.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/big-pharma",
+    "name": "Big Pharma",
+    "icon": "https://cdn2.unrealengine.com/egs-theultimatecureemuplaboratorytycoonsim-twicecircled-ic1-400x400-90f6e88de893.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/spellforce-3-fallen-god",
+    "name": "SpellForce 3: Fallen God",
+    "icon": "https://cdn2.unrealengine.com/egs-spellforce3fallengod-grimloregames-s1-2560x1440-381796359.jpg"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/spellforce-3-versus",
+    "name": "SpellForce 3: Versus Edition",
+    "icon": "https://cdn2.unrealengine.com/egs-spellforce3versusedition-grimloregames-g1a-00-1920x1080-397270034.jpg"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/werewolf-the-apocalypse-earthblood",
+    "name": "Werewolf: The Apocalypse - Earthblood",
+    "icon": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fwerewolf-the-apocalypse-earthblood%2Fhome%2FEGS_WerewolfTheApocalypseEarthblood_CyanideStudio_IC2-128x128-c227642dba79597b919e82d6d9eb012e8c6a5fa2.png"
   },
   {
     "link": "https://store.epicgames.com/{{CREATORCODE}}/oddworld-soulstorm",
@@ -48,6 +188,11 @@
     "link": "https://store.epicgames.com/{{CREATORCODE}}/dragon-quest-xi-s-echoes-of-an-elusive-age",
     "name": "DRAGON QUEST XI S: Echoes of an Elusive Age ",
     "icon": "https://cdn2.unrealengine.com/egs-dragonquestxisechoesofanelusiveage-squareenix-ic1-400x225-960514395.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/mudrunner",
+    "name": "Mudrunner",
+    "icon": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fmudrunner%2Fhome%2FMudRunner_EpicGames_SocialPresenceIcon-128x128-aa8b1d4d58ff67dadd28e36004662ccc4b590ffc.png"
   },
   {
     "link": "https://store.epicgames.com/{{CREATORCODE}}/chronos-before-the-ashes",
@@ -583,6 +728,11 @@
     "link": "https://store.epicgames.com/{{CREATORCODE}}/ghost-recon-future-soldier",
     "name": "Ghost Recon Future Soldier",
     "icon": "https://cdn2.unrealengine.com/grfs-std-newsfeed-game-icon-400x400-400x400-131117802.png"
+  },
+  {
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/rogue-company",
+    "name": "Rogue Company",
+    "icon": "https://cdn2.unrealengine.com/egs-roguecompany-firstwatchgames-ic2-128x128-164408863.png"
   },
   {
     "link": "https://store.epicgames.com/{{CREATORCODE}}/torchlight-2",
@@ -1360,11 +1510,6 @@
     "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FTheEndIsNigh_Logo-128x128-492e179f8583c0ec82a495ae665c6bc6322b1b7d.png"
   },
   {
-    "link": "https://store.epicgames.com/{{CREATORCODE}}/inside",
-    "name": "Inside",
-    "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FEGS_PLAYDEAD_INSIDE_ICON_IC2-400x400-e85596d414ebbac7516f455d85258e6aadb77feb.png"
-  },
-  {
     "link": "https://store.epicgames.com/{{CREATORCODE}}/celeste",
     "name": "Celeste",
     "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FIC2-128x128-3afdc846a55a34502be61a16861ec7a8eb54e51e.png"
@@ -1813,11 +1958,6 @@
     "link": "https://store.epicgames.com/{{CREATORCODE}}/what-remains-of-edith-finch",
     "name": "What Remains of Edith Finch",
     "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2FEpic_EdithFinch_GameIcon-400x400-fc29993981a6387c73fefd9a97198981520ba42f.png"
-  },
-  {
-    "link": "https://store.epicgames.com/{{CREATORCODE}}/my-time-at-portia",
-    "name": "My Time At Portia",
-    "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2FMyTimeAtPortia_GameIcon-400x400-813b22aae43dfa268b6ded54ca8d024dab2d1d19.png"
   },
   {
     "link": "https://store.epicgames.com/{{CREATORCODE}}/walking-dead-final-season",
