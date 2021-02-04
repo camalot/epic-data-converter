@@ -18,10 +18,10 @@ def main(infile, outfile):
     epicData = list()
     with open(infile) as json_in_file:
         data = json.load(json_in_file)
-        for d in data['data']:
-            group = data['data'][d]
+        for d in data['data']['otherProducts']:
+            group = data['data']['otherProducts'][d]
             link = None
-            if group['link'] is None:
+            if 'link' not in group:
                 link = "https://store.epicgames.com/{{CREATORCODE}}/" + d
             else:
                 link = group['link'].replace("/darthminos/", "/{{CREATORCODE}}/")
@@ -29,6 +29,7 @@ def main(infile, outfile):
             icon = group['icon']
             if icon:
                 epicData.append({
+                    "id": d,
                     "link": link,
                     "name": name,
                     "icon": icon
