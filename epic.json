@@ -1,5 +1,137 @@
 [
   {
+    "id": "7c53d7dc86494d5abcdc974b0ef0a843",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/kena-bridge-of-spirits",
+    "name": "Kena: Bridge of Spirits",
+    "icon": "https://cdn2.unrealengine.com/egs-kenabridgeofspirits-emberlab-ic2-128x128-182977944.png"
+  },
+  {
+    "id": "08ae29e4f70a4b62aa055e383381aa82",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/breathedge",
+    "name": "Breathedge",
+    "icon": "https://cdn2.unrealengine.com/egs-breathedge-redruinssoftworks-ic2-128x128-617f397b5ec4.png"
+  },
+  {
+    "id": "e49aaa31c1324e398e0b1029a0c6d390",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/system-shock",
+    "name": "System Shock",
+    "icon": "https://cdn2.unrealengine.com/egs-afighttothedeathinthedepthsofspace-nightdivestudios-ic2-128x128-8951d0f1c0be.png"
+  },
+  {
+    "id": "2736ab9fec9c4a93a7a2872ed5154d4b",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/rage-2",
+    "name": "Rage 2",
+    "icon": "https://cdn2.unrealengine.com/egs-rage2-idsoftware-g1c-02-1920x1080-a613915971f2.jpg"
+  },
+  {
+    "id": "efeffab890e0438abe36f643f5da5ca2",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/the-colonists",
+    "name": "The Colonists",
+    "icon": "https://cdn2.unrealengine.com/egs-thecolonists-codebyfire-ic2-128x128-f3493bf171fc.png"
+  },
+  {
+    "id": "9d2f484bbec64aa8ad234b3199dcaf1c",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/absolute-drift",
+    "name": "Absolute Drift",
+    "icon": "https://cdn2.unrealengine.com/egs-absolutedrift-funselektorlabsinc-ic2-128x128-986f9a545f1f.png"
+  },
+  {
+    "id": "c1e33e7e700f42429ea2b8a7459bb55b",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/curse-of-the-dead-gods",
+    "name": "Curse of the Dead Gods",
+    "icon": "https://cdn2.unrealengine.com/egs-curseofthedeadgods-passtechgames-ic2-128x128-1949cf52c8de.png"
+  },
+  {
+    "id": "3dd7b519d7ab4631ae96d3efa8588514",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/halcyon-6",
+    "name": "Halcyon 6",
+    "icon": "https://cdn2.unrealengine.com/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-ic2-128x128-a3926253318e.png"
+  },
+  {
+    "id": "da0fa474b1c04bfe8ee6c1f980285214",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/tales-from-the-borderlands",
+    "name": "Tales from the Borderlands",
+    "icon": "https://cdn2.unrealengine.com/egs-talesfromtheborderlands-telltalegames-ic1-400x400-149a466a7ef6.png"
+  },
+  {
+    "id": "3fbe0be2f0a44febb56dc080c3a53775",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/remilore-lost-girl-in-the-lands-of-lore",
+    "name": "RemiLore: Lost Girl in the Lands of Lore",
+    "icon": "https://cdn2.unrealengine.com/egs-remilorelostgirlinthelandsoflore-pixelloreincremimory-ic2-128x128-dcab9cbdc71a.png"
+  },
+  {
+    "id": "4158b699dd70447a981fee752d970a3e",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/kingdom-hearts-hd-1-5-2-5-remix",
+    "name": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+    "icon": "https://cdn2.unrealengine.com/egs-kingdomheartshd1525remix-squareenix-ic2-128x128-b3297926d621.png"
+  },
+  {
+    "id": "c8ff067c1c984cd7ab1998e8a9afc8b6",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/kingdom-hearts-hd-2-8-final-chapter-prologue",
+    "name": "KINGDOM HEARTS-HD 2.8 Final Chapter Prologue",
+    "icon": "https://cdn2.unrealengine.com/egs-kingdomheartshd28finalchapterprologue-squareenix-ic2-128x128-542a352d80af.png"
+  },
+  {
+    "id": "0712176b5e3e49bfa8866c0ee1359f2d",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/kingdom-hearts-iii",
+    "name": "Kingdom Hearts III",
+    "icon": "https://cdn2.unrealengine.com/egs-kingdomheartsiiireminddlc-squareenix-ic2-128x128-c371a8b68697.png"
+  },
+  {
+    "id": "3671db367c594e2ab5020105dc52dc65",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/kingdom-hearts-melody-of-memory",
+    "name": "KINGDOM HEARTS Melody of Memory",
+    "icon": "https://cdn2.unrealengine.com/egs-kingdomheartsmelodyofmemory-squareenix-ic1-400x400-4f5f4f1a0f82.png"
+  },
+  {
+    "id": "a15e35cda898480d8fed214dc889f199",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/trials-evolution",
+    "name": "Trials Evolution",
+    "icon": "https://cdn2.unrealengine.com/socialpresenceicon-128x128-128x128-1ed1afae6bd6.png"
+  },
+  {
+    "id": "bb9f87bb3d0042258bb1c97397bc60f2",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/crayta",
+    "name": "Crayta",
+    "icon": "https://cdn2.unrealengine.com/egs-craytabasegame-unit2games-ic1-400x400-562207057.png"
+  },
+  {
+    "id": "1d3e38b5e921433caffbbef89e265517",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/iracing",
+    "name": "iRacing",
+    "icon": "https://cdn2.unrealengine.com/egs-iracing-iracing-ic2-128x128-7d395e469c29.png"
+  },
+  {
+    "id": "4b553e8aa0a246eaa2fdba8556b7551a",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/shadowhand",
+    "name": "Shadowhand",
+    "icon": "https://cdn2.unrealengine.com/egs-shadowhandisastrategicrpgcardgame-greyaliengames-ic1-400x400-bdf7b0e85cdc.png"
+  },
+  {
+    "id": "c0b9d91377a840718e6869f0cd780a55",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/spacebase-startopia",
+    "name": "Spacebase Startopia",
+    "icon": "https://cdn2.unrealengine.com/egs-spacebasestartopiastandardedition-realmforgestudios-ic1-400x156-140f0021fef5.png"
+  },
+  {
+    "id": "2d831f372e6343cc85cceda5c9c808cf",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/Haven",
+    "name": "Haven",
+    "icon": "https://cdn2.unrealengine.com/egs-haven-thegamebakers-ic2-128x128-b7cde8e330cc.png"
+  },
+  {
+    "id": "66e9c042d8cd42b7956f5e195e0442de",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/rayman-origins",
+    "name": "Rayman Origins",
+    "icon": "https://cdn2.unrealengine.com/socialpresenceicon-128x128-128x128-2463b1d2fb61.jpg"
+  },
+  {
+    "id": "73b62f4875a248d8acc95966ce94c80f",
+    "link": "https://store.epicgames.com/{{CREATORCODE}}/dandara",
+    "name": "Dandara: Trials of Fear Edition ",
+    "icon": "https://cdn2.unrealengine.com/egs-dandaratrialsoffearedition-longhathouse-ic3-400x192-02900b86324a.png"
+  },
+  {
     "id": "dda64c2956b54f1ba3cd97f6aaee775f",
     "link": "https://store.epicgames.com/{{CREATORCODE}}/total-war-warhammer-3",
     "name": "Total War: WARHAMMER III",
@@ -2128,12 +2260,6 @@
     "link": "https://store.epicgames.com/{{CREATORCODE}}/heavy-rain",
     "name": "Heavy Rain",
     "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2F001_HEAVYRAIN_ICON-400x400-b77dce2d4f0deef5dbc412704cc3cb7e3891126f.png"
-  },
-  {
-    "id": "c5e786eddfd041caa9984213e3f9621d",
-    "link": "https://store.epicgames.com/{{CREATORCODE}}/metro-last-light-redux",
-    "name": "Metro Last Light Redux",
-    "icon": "https://cdn2.unrealengine.com/Affiliate+Web%2Fproducts%2FMLLRedux400x400-400x400-597bf31addf61f21dd74114e4dd52a75c2956cca.jpg"
   },
   {
     "id": "adenium",
