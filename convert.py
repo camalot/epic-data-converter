@@ -25,6 +25,8 @@ def main(infile, outfile):
                 link = "https://store.epicgames.com/{{CREATORCODE}}/" + d
             else:
                 link = group['link'].replace("/darthminos/", "/{{CREATORCODE}}/")
+                link = group['link'].replace("57b211fe043b4b6d96ac10a1454b6ade", "{{CREATORCODEID}}")
+                
             name = group['name'].replace("\u00c2\u00ae", "").replace("\u00e2\u201e\u00a2", "")
             icon = group['icon']
             if icon:
