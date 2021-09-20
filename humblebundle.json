@@ -1,568 +1,221 @@
 {
   "promotions": [
     {
-      "machine_name": "civilization6_newfrontierpass_storefront",
+      "tile_logo_information": {
+        "config": null
+      },
+      "machine_name": "team17publishersale_2021",
+      "reverse_logo_and_sale_text": null,
+      "high_res_tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/storefront/master_images/team17-publisher-sale-2020-store-grid-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "high_res_tile_image": "https://hb.imgix.net/b8f10af03a69a0ca31ddd27a4def30be5ae06131.png?auto=compress,format&fit=crop&h=600&w=1200&s=47b435d4800f1a665725f2c344c59151",
+      "fallback_logo_information": {
+        "config": null
+      },
+      "marketing_blurb": null,
+      "product_url": "/store/promo/team-17-publisher-sale/",
+      "tile_image": "https://hb.imgix.net/b8f10af03a69a0ca31ddd27a4def30be5ae06131.png?auto=compress,format&fit=crop&h=353&w=616&s=bf44772f8dcf19e934ef1cb01cd803d0",
+      "category": "bundle/monthly",
+      "is_custom": true,
+      "fallback_store_sale_logo": "",
+      "highlights": [
+        "Get games and more!"
+      ],
+      "use_wide_promo_logo": null,
+      "supports_partners": true,
+      "detailed_marketing_blurb": null,
+      "tile_logo": "",
+      "hide_end_date": null,
+      "end_date": "2021-09-22T17:00:00",
+      "tile_stamp": null,
+      "tile_name": "Team 17 Publisher Sale",
+      "short_marketing_blurb": null,
+      "product_title": "Team 17 Publisher Sale",
+      "tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/storefront/master_images/team17-publisher-sale-2020-store-grid-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "carousel_body_text": null,
+      "type": "storepagetile",
+      "is_store_page_layout": true,
+      "hide_sale_text": null
+    },
+    {
+      "tile_logo_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/tenacioustactics-sale-2021-store-home-logo.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "machine_name": "tenacioustacticssale_2021",
+      "reverse_logo_and_sale_text": null,
+      "high_res_tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/tenacioustactics-sale-2021-store-home-tile.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "high_res_tile_image": "https://hb.imgix.net/4c2bfc23d960765607071d787c120a2be7e1fc65.png?auto=compress,format&fit=crop&h=600&w=1200&s=d2f813e5020e2899b0f548075b36971f",
+      "fallback_logo_information": {
+        "config": null
+      },
+      "marketing_blurb": null,
+      "product_url": "/store/promo/tenacious-tactics-sale/",
+      "tile_image": "https://hb.imgix.net/4c2bfc23d960765607071d787c120a2be7e1fc65.png?auto=compress,format&fit=crop&h=353&w=616&s=de2e35b35d8e3ca24695f9dd0f9b0fe0",
+      "category": "bundle/monthly",
+      "is_custom": true,
+      "fallback_store_sale_logo": "",
+      "highlights": [
+        "Get <em>Crusader Kings III</em>, <em>Crusader Kings III: Northern Lords</em>, <em>Anno 1800 Complete Edition Year 3</em>, <em>Europa Universalis IV DLC Collection</em>, <em>Planet Zoo</em> and more!"
+      ],
+      "use_wide_promo_logo": null,
+      "supports_partners": true,
+      "detailed_marketing_blurb": null,
+      "tile_logo": "https://hb.imgix.net/c244cbe05d2bd432804ca3f9195e426189725446.png?auto=compress,format&h=170&w=1200&s=3d6a9a8f946281ad204ee3c1b3426b45",
+      "hide_end_date": null,
+      "end_date": "2021-09-27T17:00:00",
+      "tile_stamp": "store",
+      "tile_name": "Tenacious Tactics Sale",
+      "short_marketing_blurb": null,
+      "product_title": "Tenacious Tactics Sale",
+      "tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/tenacioustactics-sale-2021-store-home-tile.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "carousel_body_text": null,
+      "type": "storepagetile",
+      "is_store_page_layout": true,
+      "hide_sale_text": null
+    },
+    {
+      "machine_name": "satisfactory_storefront",
       "current_pricing": {
-        "RU": [
-          "1990",
-          "RUB"
-        ],
-        "CN": [
-          "139",
-          "CNY"
+        "EUROPE_EURO": [
+          "29.99",
+          "EUR"
         ],
         "CA": [
-          "53.49",
+          "33.99",
           "CAD"
         ],
         "US": [
-          "39.99",
+          "29.99",
           "USD"
         ],
         "NZ": [
-          "63.95",
+          "49.99",
           "NZD"
         ],
         "AU": [
-          "59.95",
+          "44.95",
           "AUD"
         ],
         "EUROPE_GBP": [
-          "32.99",
+          "27.99",
           "GBP"
-        ],
-        "EUROPE_EURO": [
-          "39.99",
-          "EUR"
         ]
       },
       "full_price": {
         "currency": "USD",
-        "amount": 39.99
+        "amount": 29.99
       },
-      "product_url": "/store/sid-meiers-civilization-vi-new-frontier-pass",
+      "product_url": "/store/satisfactory",
       "platforms": [
         "epic",
         "steam"
       ],
       "current_price": {
         "currency": "USD",
-        "amount": 39.99
+        "amount": 29.99
       },
       "high_res_tile_image_information": {
-        "path": "images/storefront/master_images/2KGMKT_CIV6NFP_storefront.jpg"
+        "path": "images/storefront/master_images/satisfactory_storefront.jpeg"
       },
       "is_custom": true,
       "fallback_store_sale_logo": "",
-      "high_res_tile_image": "https://hb.imgix.net/77dbe518923a26fc26bebf28fb89cae15070a8fb.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=fa508327db1fe9ee6e760f3cfa1506b7",
+      "high_res_tile_image": "https://hb.imgix.net/3408de5131f62c11c1c4936975c195a6753fccea.jpeg?auto=compress,format&fit=crop&h=600&w=1200&s=224447cd4da15a297d17930979af7257",
       "supports_partners": true,
       "full_pricing": {
-        "RU": [
-          "1990",
-          "RUB"
-        ],
-        "CN": [
-          "139",
-          "CNY"
+        "EUROPE_EURO": [
+          "29.99",
+          "EUR"
         ],
         "CA": [
-          "53.49",
+          "33.99",
           "CAD"
         ],
         "US": [
-          "39.99",
+          "29.99",
           "USD"
         ],
         "NZ": [
-          "63.95",
+          "49.99",
           "NZD"
         ],
         "AU": [
-          "59.95",
+          "44.95",
           "AUD"
         ],
         "EUROPE_GBP": [
-          "32.99",
+          "27.99",
           "GBP"
-        ],
-        "EUROPE_EURO": [
-          "39.99",
-          "EUR"
         ]
       },
       "tile_logo": "",
       "type": "store",
       "incompatible_features": [],
-      "tile_name": "Civilization VI - New Frontier Pass",
-      "tile_image": "https://hb.imgix.net/77dbe518923a26fc26bebf28fb89cae15070a8fb.jpg?auto=compress,format&fit=crop&h=353&w=616&s=168704db8b36f4637773ed490c8fd386",
+      "tile_name": "Satisfactory",
+      "tile_image": "https://hb.imgix.net/3408de5131f62c11c1c4936975c195a6753fccea.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=a243a8ffdaed5073b160dcd280f13c91",
       "tile_image_information": {
-        "path": "images/storefront/master_images/2KGMKT_CIV6NFP_storefront.jpg"
-      },
-      "rewards_split": 0.05,
-      "operating_systems": [
-        "windows"
-      ]
-    },
-    {
-      "tile_logo_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/logos/3drpgmapsfroggodgames_bookbundle-logo-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "machine_name": "virtualtabletopmapsdigitalfantasydungeons_bookbundle",
-      "high_res_tile_image": "https://hb.imgix.net/23f66908b11fc1f56a13d519dd6a55cd31ead7d7.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=f5ecbc7ac02f5d81f4a7c60c2e6784f3",
-      "disable_hero_tile": false,
-      "marketing_blurb": "Get <em>A Watery Death</em>, <em>Quick Encounters 1</em>, <em>The Fallen God Island</em>, <em>Luxemburg Star Fortress</em>, <em>Cave Geek Fantasy Map Set - Frigid Journeys & Jungle Adventures</em>, and more!",
-      "hover_title": "Pay What You Want",
-      "product_url": "/books/virtual-tabletop-maps-digital-fantasy-dungeons-books",
-      "tile_image": "https://hb.imgix.net/23f66908b11fc1f56a13d519dd6a55cd31ead7d7.jpg?auto=compress,format&fit=crop&h=353&w=616&s=6de90fea0cd80d84ab4e2bdfc2ad58e4",
-      "high_res_tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/3drpgmapsfroggodgames_bundle-product.jpg",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "hero_highlights": [
-        {
-          "heading": "$366 worth of awesome stuff",
-          "tooltip": "Get ebooks collectively valued at up to $366."
-        },
-        {
-          "heading": "Pay $1 or more",
-          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
-        },
-        {
-          "heading": "DRM-free",
-          "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
-        },
-        {
-          "heading": "Multi-format",
-          "tooltip": "These ebooks come in PDF file types to support many devices."
-        }
-      ],
-      "hover_highlights": [
-        "46 Items",
-        "$366 Value"
-      ],
-      "fallback_store_sale_logo": "",
-      "supports_partners": true,
-      "detailed_marketing_blurb": "Do you ever look at your tabletop games and wish they were a little more...dynamic? A little less flat, and a little more full? Frog God Games has you covered with our newest bundle! Filled with virtual RPG maps from creators like <em>Alyssa Faden</em>, <em>Tom Cartos</em>, and  <em>Cave Geek Art</em>, enjoy transforming your 2D grid to a fully-fleshed out virtual tabletop experience! Plus, your purchase helps support the Navy-Marine Corps Relief Society!",
-      "formattedDateInformation": {
-        "startDate": "2021-06-10 11:00:00 ",
-        "endDate": "2021-07-01 11:00:00 "
-      },
-      "tile_logo": "https://hb.imgix.net/783e079590594dfdb90e07e2a02096d3672517ef.png?auto=compress,format&h=170&w=1200&s=160d5b3ad0bb586c09adc722e83e891b",
-      "tile_short_name": "Virtual Tabletop Maps: Digital Fantasy & Dungeons",
-      "start_date": 1623348000000,
-      "end_date": "2021-07-01T18:00:00",
-      "tile_stamp": "books",
-      "is_custom": true,
-      "bundles_sold": 1714.0,
-      "tile_name": "Humble RPG Book Bundle: Virtual Tabletop Maps: Digital Fantasy & Dungeons",
-      "short_marketing_blurb": "Bring your tabletop to life!",
-      "tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/3drpgmapsfroggodgames_bundle-product.jpg",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "type": "bundle",
-      "highlights": [
-        "Pay What You Want",
-        "46 Items",
-        "$366 Value",
-        "Support Charity"
-      ]
-    },
-    {
-      "tile_logo_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/logos/learncodingtobuildgames2021_software_logo-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "machine_name": "learncodingtobuildgames2021_softwarebundle",
-      "high_res_tile_image": "https://hb.imgix.net/5317e33bf028a66217c9ea587b063bbaba5dd512.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=0b6636a7c1481a0b1300b2c0105c54e9",
-      "disable_hero_tile": false,
-      "marketing_blurb": "Get Develop a Reusable Quiz System, AR Projects - Job Training App, Develop a 3D Action RPG with Godot, and more!",
-      "hover_title": "Pay What You Want",
-      "product_url": "/software/learn-coding-to-build-games-2021-software",
-      "tile_image": "https://hb.imgix.net/5317e33bf028a66217c9ea587b063bbaba5dd512.jpg?auto=compress,format&fit=crop&h=353&w=616&s=53b9bdaf4d03aacbff92ff2765e196f1",
-      "high_res_tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/learningcodingtobuildgames_bundle-product.jpg",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "hero_highlights": [
-        {
-          "heading": "$1,250 worth of awesome stuff",
-          "tooltip": "Get software collectively valued at up to $1,250."
-        },
-        {
-          "heading": "Pay $1 or more",
-          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
-        },
-        {
-          "heading": "Redeem keys to access content",
-          "tooltip": "Pay $1 or more to access content."
-        }
-      ],
-      "hover_highlights": [
-        "26 items",
-        "$1,250 Value"
-      ],
-      "fallback_store_sale_logo": "",
-      "supports_partners": true,
-      "detailed_marketing_blurb": "We've teamed up with Zenva Academy for our newest bundle! Learn coding basics, and build your own games, fast! Master popular genres (including strategy, FPS, mobile, arcade, VR, and AR), and create custom game art. Plus, your purchase will support Girls Who Code, Code.org, and a charity of your choice!",
-      "formattedDateInformation": {
-        "startDate": "2021-06-10 11:00:00 ",
-        "endDate": "2021-07-01 11:00:00 "
-      },
-      "tile_logo": "https://hb.imgix.net/218b15d2a58ac3b31e1ec5a9fd8f9aded5e62414.png?auto=compress,format&h=170&w=1200&s=1b7a96627f335c5490502ae2d35300ee",
-      "tile_short_name": "Learn Coding to Build Games 2021",
-      "start_date": 1623348000000,
-      "end_date": "2021-07-01T18:00:00",
-      "tile_stamp": "software",
-      "is_custom": true,
-      "bundles_sold": 1331.0,
-      "tile_name": "Humble Software Bundle: Learn Coding to Build Games 2021",
-      "short_marketing_blurb": "Learn Coding and Build Your Own Games!",
-      "tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/learningcodingtobuildgames_bundle-product.jpg",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "type": "bundle",
-      "highlights": [
-        "Pay What You Want",
-        "26 items",
-        "$1,250 Value",
-        "Support Charity"
-      ]
-    },
-    {
-      "tile_logo_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/logos/knowledge101adamsmedia_bookbundle_logo-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "machine_name": "knowledge101adamsmedia_bookbundle",
-      "high_res_tile_image": "https://hb.imgix.net/0b11a6e2b8c2f8bf41b57485964566790b0f44d2.png?auto=compress,format&fit=crop&h=600&w=1200&s=d830e53096a3eb1cda59a16aaeecf7ef",
-      "disable_hero_tile": false,
-      "marketing_blurb": "Get <em>Psych 101</em>, <em>Poetry 101</em>, <em>Mythology 101</em>, <em>Astronomy 101</em> and more!",
-      "hover_title": "Pay What You Want",
-      "product_url": "/books/knowledge-101-adams-media-books",
-      "tile_image": "https://hb.imgix.net/0b11a6e2b8c2f8bf41b57485964566790b0f44d2.png?auto=compress,format&fit=crop&h=353&w=616&s=b6a21901f7b3ff172365b027f36e5f6b",
-      "high_res_tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/knowledge101adamsmedia_bundle-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "hero_highlights": [
-        {
-          "heading": "$406 worth of awesome stuff",
-          "tooltip": "Get ebooks collectively valued at up to $406."
-        },
-        {
-          "heading": "Pay $1 or more",
-          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
-        },
-        {
-          "heading": "DRM-free",
-          "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
-        },
-        {
-          "heading": "Multi-format",
-          "tooltip": "These ebooks come in MOBI and ePub file types to support many devices."
-        }
-      ],
-      "hover_highlights": [
-        "37 books",
-        "$406 Value"
-      ],
-      "fallback_store_sale_logo": "",
-      "supports_partners": true,
-      "detailed_marketing_blurb": "Adams Media wants us all to be smarter about...well, just about everything! Learn a lot from ebooks like <em>Psych 101</em>, <em>Investing 101</em>, <em>Astronomy 101</em>, and <em>Stock Market 101</em>. Plus, your purchase helps support Worldreader and a charity of your choice!",
-      "formattedDateInformation": {
-        "startDate": "2021-05-27 11:00:00 ",
-        "endDate": "2021-06-17 11:00:00 "
-      },
-      "tile_logo": "https://hb.imgix.net/d2876c2134f1e041436cecb7a466d5c9b080d4c9.png?auto=compress,format&h=170&w=1200&s=ec9ce35b134acc4c22660253b391e352",
-      "tile_short_name": "Knowledge 101! by Adams Media",
-      "start_date": 1622138400000,
-      "end_date": "2021-06-17T18:00:00",
-      "tile_stamp": "books",
-      "is_custom": true,
-      "bundles_sold": 14956.0,
-      "tile_name": "Humble Book Bundle: Knowledge 101! by Adams Media",
-      "short_marketing_blurb": "Get ready to get smart with Adams Media!",
-      "tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/knowledge101adamsmedia_bundle-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "type": "bundle",
-      "highlights": [
-        "Pay What You Want",
-        "37 books",
-        "$406 Value",
-        "Support Charity"
-      ]
-    },
-    {
-      "tile_logo_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/logos/3dcadprofessional_software_logo-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "machine_name": "3dcadprofessional_softwarebundle",
-      "high_res_tile_image": "https://hb.imgix.net/90c44fabc02ebc55ec39db66ff7a216242494da9.png?auto=compress,format&fit=crop&h=600&w=1200&s=e84c1ec55a8d350422ae7cf9e49b0833",
-      "disable_hero_tile": false,
-      "marketing_blurb": "Get Kitchen Catalog, Ashampoo Home Design 6, Office Catalog Extension, Ashampoo CAD Architecture 8, Ashampoo CAD Professional 8, and more!",
-      "hover_title": "Pay What You Want",
-      "product_url": "/software/3d-cad-professional-software",
-      "tile_image": "https://hb.imgix.net/90c44fabc02ebc55ec39db66ff7a216242494da9.png?auto=compress,format&fit=crop&h=353&w=616&s=7477b65180e832c86684c066a733bb45",
-      "high_res_tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/3dcadprofessional_bundle-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "hero_highlights": [
-        {
-          "heading": "$456 worth of awesome stuff",
-          "tooltip": "Get software collectively valued at up to $456."
-        },
-        {
-          "heading": "Pay $1 or more",
-          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
-        }
-      ],
-      "hover_highlights": [
-        "5 items",
-        "$456 Value"
-      ],
-      "fallback_store_sale_logo": "",
-      "supports_partners": true,
-      "detailed_marketing_blurb": "Whether you\u2019re designing buildings, furniture, or simply want to toy with computer-aided design, enjoy a suite of CAD software like <em>Ashampoo CAD Professional 8</em>, <em>Office Catalog Extension</em>, and <em>Kitchen Catalog</em>. Plus, your purchase helps support the American Cancer Society & Child's Play!",
-      "formattedDateInformation": {
-        "startDate": "2021-06-03 11:00:00 ",
-        "endDate": "2021-06-24 11:00:00 "
-      },
-      "tile_logo": "https://hb.imgix.net/951a83749b2668eec14c26e197b105fd43e0b2a4.png?auto=compress,format&h=170&w=1200&s=4218cac9a06a845e59dcdcc59355920f",
-      "tile_short_name": "3D CAD Professional",
-      "start_date": 1622743200000,
-      "end_date": "2021-06-24T18:00:00",
-      "tile_stamp": "software",
-      "is_custom": true,
-      "bundles_sold": 5931.0,
-      "tile_name": "Humble Software Bundle: 3D CAD Professional",
-      "short_marketing_blurb": "Create something new with your computer! ",
-      "tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/3dcadprofessional_bundle-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "type": "bundle",
-      "highlights": [
-        "Pay What You Want",
-        "5 items",
-        "$456 Value",
-        "Support Charity"
-      ]
-    },
-    {
-      "machine_name": "ninjagaiden_mastercollectionninjagaiden_storefront",
-      "current_pricing": {
-        "RU": [
-          "2597.67",
-          "RUB"
-        ],
-        "EUROPE_EURO": [
-          "29.56",
-          "EUR"
-        ],
-        "CA": [
-          "43.57",
-          "CAD"
-        ],
-        "TR": [
-          "305.34",
-          "TRY"
-        ],
-        "US": [
-          "35.99",
-          "USD"
-        ],
-        "NZ": [
-          "50.05",
-          "NZD"
-        ],
-        "AU": [
-          "46.50",
-          "AUD"
-        ],
-        "PH": [
-          "1718.51",
-          "PHP"
-        ],
-        "EUROPE_GBP": [
-          "25.51",
-          "GBP"
-        ],
-        "CN": [
-          "230.08",
-          "CNY"
-        ]
-      },
-      "full_price": {
-        "currency": "USD",
-        "amount": 39.99
-      },
-      "product_url": "/store/ninja-gaiden-master-collection",
-      "platforms": [
-        "steam"
-      ],
-      "current_price": {
-        "currency": "USD",
-        "amount": 35.99
-      },
-      "high_res_tile_image_information": {
-        "path": "images/storefront/master_images/ninjagaiden_mastercollectionninjagaiden_storefront.jpg"
-      },
-      "is_custom": true,
-      "fallback_store_sale_logo": "",
-      "high_res_tile_image": "https://hb.imgix.net/7d6de28efbb467464ef924e4d3f698fb153c42a6.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=6b59170931ccebe6e9bf0e8c1c5de78b",
-      "supports_partners": true,
-      "full_pricing": {
-        "US": [
-          "39.99",
-          "USD"
-        ]
-      },
-      "tile_logo": "",
-      "type": "store",
-      "incompatible_features": [],
-      "tile_name": "NINJA GAIDEN: Master Collection",
-      "tile_image": "https://hb.imgix.net/7d6de28efbb467464ef924e4d3f698fb153c42a6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=1a60430ea27c7db5987351f884429ae0",
-      "tile_image_information": {
-        "path": "images/storefront/master_images/ninjagaiden_mastercollectionninjagaiden_storefront.jpg"
+        "path": "images/storefront/master_images/satisfactory_storefront.jpeg"
       },
       "rewards_split": 0.1,
       "operating_systems": [
@@ -570,10 +223,439 @@
       ]
     },
     {
+      "machine_name": "no_mans_sky_storefront",
+      "current_pricing": {
+        "RU": [
+          "1999",
+          "RUB"
+        ],
+        "CN": [
+          "139",
+          "CNY"
+        ],
+        "CA": [
+          "66.49",
+          "CAD"
+        ],
+        "TR": [
+          "150",
+          "TRY"
+        ],
+        "US": [
+          "59.99",
+          "USD"
+        ],
+        "NZ": [
+          "89.95",
+          "NZD"
+        ],
+        "AU": [
+          "84.95",
+          "AUD"
+        ],
+        "PH": [
+          "1439.95",
+          "PHP"
+        ],
+        "EUROPE_GBP": [
+          "39.99",
+          "GBP"
+        ],
+        "EUROPE_EURO": [
+          "54.99",
+          "EUR"
+        ]
+      },
+      "full_price": {
+        "currency": "USD",
+        "amount": 59.99
+      },
+      "product_url": "/store/no-mans-sky",
+      "platforms": [
+        "steam"
+      ],
+      "current_price": {
+        "currency": "USD",
+        "amount": 59.99
+      },
+      "high_res_tile_image_information": {
+        "path": "images/storefront/master_images/nomanssky_storefront.png"
+      },
+      "is_custom": true,
+      "fallback_store_sale_logo": "",
+      "high_res_tile_image": "https://hb.imgix.net/2ba55f9b780cdacbc6071f28e4eac1d6c0119add.png?auto=compress,format&fit=crop&h=600&w=1200&s=e5e9e264257bee391bd9172aa7ffeefb",
+      "supports_partners": true,
+      "full_pricing": {
+        "RU": [
+          "1999",
+          "RUB"
+        ],
+        "CN": [
+          "139",
+          "CNY"
+        ],
+        "CA": [
+          "66.49",
+          "CAD"
+        ],
+        "TR": [
+          "150",
+          "TRY"
+        ],
+        "US": [
+          "59.99",
+          "USD"
+        ],
+        "NZ": [
+          "89.95",
+          "NZD"
+        ],
+        "AU": [
+          "84.95",
+          "AUD"
+        ],
+        "PH": [
+          "1439.95",
+          "PHP"
+        ],
+        "EUROPE_GBP": [
+          "39.99",
+          "GBP"
+        ],
+        "EUROPE_EURO": [
+          "54.99",
+          "EUR"
+        ]
+      },
+      "tile_logo": "",
+      "type": "store",
+      "incompatible_features": [],
+      "tile_name": "No Man's Sky",
+      "tile_image": "https://hb.imgix.net/2ba55f9b780cdacbc6071f28e4eac1d6c0119add.png?auto=compress,format&fit=crop&h=353&w=616&s=e29d5c1c4d8075b81d14a245180a5497",
+      "tile_image_information": {
+        "path": "images/storefront/master_images/nomanssky_storefront.png"
+      },
+      "rewards_split": 0.1,
+      "operating_systems": [
+        "windows",
+        "oculus-rift",
+        "vive"
+      ]
+    },
+    {
+      "machine_name": "deathloop_storefront",
+      "current_pricing": {
+        "RU": [
+          "2499",
+          "RUB"
+        ],
+        "CN": [
+          "199",
+          "CNY"
+        ],
+        "CA": [
+          "79.99",
+          "CAD"
+        ],
+        "TR": [
+          "299",
+          "TRY"
+        ],
+        "US": [
+          "59.99",
+          "USD"
+        ],
+        "NZ": [
+          "119.95",
+          "NZD"
+        ],
+        "AU": [
+          "99.95",
+          "AUD"
+        ],
+        "EUROPE_GBP": [
+          "49.99",
+          "GBP"
+        ],
+        "EUROPE_EURO": [
+          "59.99",
+          "EUR"
+        ]
+      },
+      "full_price": {
+        "currency": "USD",
+        "amount": 59.99
+      },
+      "product_url": "/store/deathloop",
+      "platforms": [
+        "steam"
+      ],
+      "current_price": {
+        "currency": "USD",
+        "amount": 59.99
+      },
+      "high_res_tile_image_information": {
+        "path": "images/storefront/master_images/deathloop_storefront.jpg"
+      },
+      "is_custom": true,
+      "fallback_store_sale_logo": "",
+      "high_res_tile_image": "https://hb.imgix.net/c5053d8239862b84a3830c437d145df0c3f60d46.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=f80508455b982ed8f2c18e1d6a15faca",
+      "supports_partners": true,
+      "full_pricing": {
+        "RU": [
+          "2499",
+          "RUB"
+        ],
+        "CN": [
+          "199",
+          "CNY"
+        ],
+        "CA": [
+          "79.99",
+          "CAD"
+        ],
+        "TR": [
+          "299",
+          "TRY"
+        ],
+        "US": [
+          "59.99",
+          "USD"
+        ],
+        "NZ": [
+          "119.95",
+          "NZD"
+        ],
+        "AU": [
+          "99.95",
+          "AUD"
+        ],
+        "EUROPE_GBP": [
+          "49.99",
+          "GBP"
+        ],
+        "EUROPE_EURO": [
+          "59.99",
+          "EUR"
+        ]
+      },
+      "tile_logo": "",
+      "type": "store",
+      "incompatible_features": [],
+      "tile_name": "DEATHLOOP",
+      "tile_image": "https://hb.imgix.net/c5053d8239862b84a3830c437d145df0c3f60d46.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f6392afda0aaa05c63c612b0bf48a1ea",
+      "tile_image_information": {
+        "path": "images/storefront/master_images/deathloop_storefront.jpg"
+      },
+      "rewards_split": 0.0,
+      "operating_systems": [
+        "windows"
+      ]
+    },
+    {
+      "tile_logo_information": {
+        "config": null
+      },
+      "machine_name": "rockstarfallpublishersale_2021",
+      "reverse_logo_and_sale_text": null,
+      "high_res_tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/storefront/promotions/rockstar-publisher-sale/rockstar-publisher-sale-2020-store-grid-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "high_res_tile_image": "https://hb.imgix.net/4eb0fed2e91dbc173eb63ce2908964e6c97b9e7c.png?auto=compress,format&fit=crop&h=600&w=1200&s=034c6cafdb05e127fe8a926fd6d83162",
+      "fallback_logo_information": {
+        "config": null
+      },
+      "marketing_blurb": null,
+      "product_url": "/store/promo/rockstar-publisher-sale/",
+      "tile_image": "https://hb.imgix.net/4eb0fed2e91dbc173eb63ce2908964e6c97b9e7c.png?auto=compress,format&fit=crop&h=353&w=616&s=278e8d41c7e35d1f4360f4d4c75b2dc9",
+      "category": "bundle/monthly",
+      "is_custom": true,
+      "fallback_store_sale_logo": "",
+      "highlights": [
+        "Get games and more!"
+      ],
+      "use_wide_promo_logo": null,
+      "supports_partners": true,
+      "detailed_marketing_blurb": null,
+      "tile_logo": "",
+      "hide_end_date": null,
+      "end_date": "2021-09-24T17:00:00",
+      "tile_stamp": null,
+      "tile_name": "Rockstar Publisher Sale",
+      "short_marketing_blurb": null,
+      "product_title": "Rockstar Publisher Sale",
+      "tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/storefront/promotions/rockstar-publisher-sale/rockstar-publisher-sale-2020-store-grid-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "carousel_body_text": null,
+      "type": "storepagetile",
+      "is_store_page_layout": true,
+      "hide_sale_text": null
+    },
+    {
+      "machine_name": "eurotrucksimulator2_storefront",
+      "current_pricing": {
+        "EUROPE_GBP": [
+          "14.99",
+          "GBP"
+        ],
+        "EUROPE_EURO": [
+          "19.99",
+          "EUR"
+        ],
+        "US": [
+          "19.99",
+          "USD"
+        ]
+      },
+      "full_price": {
+        "currency": "USD",
+        "amount": 19.99
+      },
+      "product_url": "/store/euro-truck-simulator-2",
+      "platforms": [
+        "steam"
+      ],
+      "current_price": {
+        "currency": "USD",
+        "amount": 19.99
+      },
+      "high_res_tile_image_information": {
+        "path": "images/storefront/master_images/eurotrucksimulator2_storefront.jpeg"
+      },
+      "is_custom": true,
+      "fallback_store_sale_logo": "",
+      "high_res_tile_image": "https://hb.imgix.net/b97f3ac93ee3a50326525f92052cf9ccaf664d4a.jpeg?auto=compress,format&fit=crop&h=600&w=1200&s=140baed01d82f96ce01b9114356f8225",
+      "supports_partners": true,
+      "full_pricing": {
+        "EUROPE_GBP": [
+          "14.99",
+          "GBP"
+        ],
+        "EUROPE_EURO": [
+          "19.99",
+          "EUR"
+        ],
+        "US": [
+          "19.99",
+          "USD"
+        ]
+      },
+      "tile_logo": "",
+      "type": "store",
+      "incompatible_features": [],
+      "tile_name": "Euro Truck Simulator 2",
+      "tile_image": "https://hb.imgix.net/b97f3ac93ee3a50326525f92052cf9ccaf664d4a.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=cc6aa824d667c016f1e278be77f1fa22",
+      "tile_image_information": {
+        "path": "images/storefront/master_images/eurotrucksimulator2_storefront.jpeg"
+      },
+      "rewards_split": 0.1,
+      "operating_systems": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
       "tile_logo_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/logos/webdevelopmentdesignoreilly_bookbundle_logo-product.png",
+          "gcs": "images/humble_home/civilization-sale-2021-store-sale-home-logo.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "machine_name": "civilizationvi30thanniversarysale_2021",
+      "reverse_logo_and_sale_text": null,
+      "high_res_tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/civilization-sale-2021-store-sale-home-tile.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "high_res_tile_image": "https://hb.imgix.net/b46397feeb36eacd67750bd04066fcf3d4f74cb7.png?auto=compress,format&fit=crop&h=600&w=1200&s=ed0141261fb7581a656f571edbb09663",
+      "fallback_logo_information": {
+        "config": null
+      },
+      "marketing_blurb": null,
+      "product_url": "/store/promo/civilization-vi-30th-anniversary-sale/",
+      "tile_image": "https://hb.imgix.net/b46397feeb36eacd67750bd04066fcf3d4f74cb7.png?auto=compress,format&fit=crop&h=353&w=616&s=844199dcfccb11338ebb4b72d2bd0730",
+      "category": "bundle/monthly",
+      "is_custom": true,
+      "fallback_store_sale_logo": "",
+      "highlights": [
+        "Get games and more!"
+      ],
+      "use_wide_promo_logo": null,
+      "supports_partners": true,
+      "detailed_marketing_blurb": null,
+      "tile_logo": "https://hb.imgix.net/b4a7aa29ce74776b69f32aaf70f9900c5c64d601.png?auto=compress,format&h=170&w=1200&s=e36ad7fa2020ae530d0823270b364444",
+      "hide_end_date": null,
+      "end_date": "2021-09-23T17:00:00",
+      "tile_stamp": "store",
+      "tile_name": "Civilization VI 30th Anniversary Sale",
+      "short_marketing_blurb": null,
+      "product_title": "Civilization VI 30th Anniversary Sale",
+      "tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/civilization-sale-2021-store-sale-home-tile.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "carousel_body_text": null,
+      "type": "storepagetile",
+      "is_store_page_layout": true,
+      "hide_sale_text": null
+    },
+    {
+      "tile_logo_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/logos/fallvremporiumbundle_bundle-logo-product.png",
           "imgix": {
             "args": {},
             "master_image": {
@@ -585,17 +667,17 @@
           }
         }
       },
-      "machine_name": "webdevelopmentdesignoreilly_bookbundle",
-      "high_res_tile_image": "https://hb.imgix.net/3af6adc590a9f19f2d61de40c7581f26b3a16ba2.png?auto=compress,format&fit=crop&h=600&w=1200&s=68fad65055da14493721ddb4a888fc53",
+      "machine_name": "fallvremporiumbundle_bundle",
+      "high_res_tile_image": "https://hb.imgix.net/4896213d3b21f6a1cfb72d614485e0e307ee2d3c.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=005a075f640697bcc8b754a5966197e8",
       "disable_hero_tile": false,
-      "marketing_blurb": "Get <em>Laws of UX</em>, <em>Learning React</em>, <em>Learning JavaScript</em>, <em>Learning PHP, MySQL & JavaScript</em>, and more!",
+      "marketing_blurb": "Get <em>Arizona Sunshine</em>, <em>Until You Fall</em>, <em>Zero Caliber VR</em>, and more!",
       "hover_title": "Pay What You Want",
-      "product_url": "/books/web-development-design-oreilly-books",
-      "tile_image": "https://hb.imgix.net/3af6adc590a9f19f2d61de40c7581f26b3a16ba2.png?auto=compress,format&fit=crop&h=353&w=616&s=78d4cdd035d097709b8217fb52ec263f",
+      "product_url": "/games/fall-vr-emporium-bundle",
+      "tile_image": "https://hb.imgix.net/4896213d3b21f6a1cfb72d614485e0e307ee2d3c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=1878a7e8f44d5e93865752b1b8c8f4d3",
       "high_res_tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/humble_home/webdevelopmentdesignoreilly_bundle-product.png",
+          "gcs": "images/humble_home/fallvremporiumbundle_bundle-product.jpg",
           "imgix": {
             "args": {},
             "master_image": {
@@ -609,46 +691,38 @@
       },
       "hero_highlights": [
         {
-          "heading": "$602 worth of awesome stuff",
-          "tooltip": "Get ebooks collectively valued at up to $602."
+          "heading": "$154 worth of awesome stuff",
+          "tooltip": "Get games collectively valued at up to $154."
         },
         {
           "heading": "Pay $1 or more",
           "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
-        },
-        {
-          "heading": "DRM-free",
-          "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
-        },
-        {
-          "heading": "Multi-format",
-          "tooltip": "These ebooks come in PDF, MOBI, and ePub file types to support many devices."
         }
       ],
       "hover_highlights": [
-        "15 books",
-        "$602 Value"
+        "7 games",
+        "$154 Value"
       ],
       "fallback_store_sale_logo": "",
       "supports_partners": true,
-      "detailed_marketing_blurb": "Enjoy learning to build a better web with O'Reilly, who's helped us build our newest bundle! Pick up web development and design ebooks like <em>Learning JavaScript</em>, <em>Laws of UX</em>, and <em>Learning PHP, MySQL & JavaScript</em>. Plus, your purchase helps support Code for America!",
+      "detailed_marketing_blurb": "Well, well, well! Who do we have here? Step right up to the stall folks, and see what we have here for you today! Interested in sporting a VR headset to enjoy some fantastic, mind-blowing virtual experiences? Do we have the bundle for you! From zombie-smashing and rifle-shooting, to house flipping and more, there are plenty of activities to get your heart racing and your brow a-sweating! Why not hop on into games like <em>Arizona Sunshine</em>, <em>Zero Caliber VR</em>, and <em>Until You Fall</em>? It\u2019s all for a good cause, as your purchase helps support a charity of your choice!",
       "formattedDateInformation": {
-        "startDate": "2021-05-31 11:00:00 ",
-        "endDate": "2021-06-21 11:00:00 "
+        "startDate": "2021-09-17 11:00:00 ",
+        "endDate": "2021-10-01 11:00:00 "
       },
-      "tile_logo": "https://hb.imgix.net/396fc9e8bb21d958b22ea5cfc37849afcfbf5f8a.png?auto=compress,format&h=170&w=1200&s=9b6f7cfd2b589e9b63ad2da3991561eb",
-      "tile_short_name": "Web Development & Design by O'Reilly",
-      "start_date": 1622484000000,
-      "end_date": "2021-06-21T18:00:00",
-      "tile_stamp": "books",
+      "tile_logo": "https://hb.imgix.net/ee830593aafb442d06976996c87aa385442081a2.png?auto=compress,format&h=170&w=1200&s=e619b48e582ca92a1715cd3d713dc049",
+      "tile_short_name": "Fall VR Emporium Bundle",
+      "start_date": 1631901600000,
+      "end_date": "2021-10-01T18:00:00",
+      "tile_stamp": "games",
       "is_custom": true,
-      "bundles_sold": 9100.0,
-      "tile_name": "Humble Book Bundle: Web Development & Design by O'Reilly",
-      "short_marketing_blurb": "Don\u2019t just browse websites. Build them.",
+      "bundles_sold": 26504.0,
+      "tile_name": "Fall VR Emporium Bundle",
+      "short_marketing_blurb": "Step right up, and play great VR games!",
       "tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/humble_home/webdevelopmentdesignoreilly_bundle-product.png",
+          "gcs": "images/humble_home/fallvremporiumbundle_bundle-product.jpg",
           "imgix": {
             "args": {},
             "master_image": {
@@ -663,8 +737,8 @@
       "type": "bundle",
       "highlights": [
         "Pay What You Want",
-        "15 books",
-        "$602 Value",
+        "7 games",
+        "$154 Value",
         "Support Charity"
       ]
     },
@@ -672,7 +746,7 @@
       "tile_logo_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/logos/talesfromloopsymbaroumfreeleague_bookbundle-logo-product.png",
+          "gcs": "images/logos/unityfpsgamesandgamedevassets_bundle-logo-product.png",
           "imgix": {
             "args": {},
             "master_image": {
@@ -684,17 +758,17 @@
           }
         }
       },
-      "machine_name": "talesfromloopsymbaroumfreeleague_bookbundle",
-      "high_res_tile_image": "https://hb.imgix.net/78cc1d5cd53a91927f4b41951f085028679e4362.png?auto=compress,format&fit=crop&h=600&w=1200&s=9bb955c424aa523919198d0597d65311",
+      "machine_name": "unityfpsgamesandgamedevassets_softwarebundle",
+      "high_res_tile_image": "https://hb.imgix.net/c1c38342df6a8e74009ef22d094346aa89b83042.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=8ce29496d218324e3638ec017a937f21",
       "disable_hero_tile": false,
-      "marketing_blurb": "Explore the mysteries and monsters of the Loop.",
+      "marketing_blurb": "Get UFPS: Ultimate FPS, SCI FI CHARACTERS MEGA PACK VOL 2, Character Movement Fundamentals, Character Movement Fundamentals and more!",
       "hover_title": "Pay What You Want",
-      "product_url": "/books/tales-from-loop-symbaroum-free-league-books",
-      "tile_image": "https://hb.imgix.net/78cc1d5cd53a91927f4b41951f085028679e4362.png?auto=compress,format&fit=crop&h=353&w=616&s=d9c753951bf633336625ac0eb3209369",
+      "product_url": "/software/unity-fps-games-and-game-dev-assets-software",
+      "tile_image": "https://hb.imgix.net/c1c38342df6a8e74009ef22d094346aa89b83042.jpg?auto=compress,format&fit=crop&h=353&w=616&s=894a8885294573b3a6ae419d1e982130",
       "high_res_tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/humble_home/talesfromloopsymbaroumfreeleague_bundle-product.png",
+          "gcs": "images/humble_home/unityfpsgamesandgamedevassets_bundle-product.jpg",
           "imgix": {
             "args": {},
             "master_image": {
@@ -708,206 +782,8 @@
       },
       "hero_highlights": [
         {
-          "heading": "$237 worth of awesome stuff",
-          "tooltip": "Get ebooks collectively valued at up to $237."
-        },
-        {
-          "heading": "Pay $1 or more",
-          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
-        },
-        {
-          "heading": "DRM-free",
-          "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
-        },
-        {
-          "heading": "PDF",
-          "tooltip": "These ebooks come in PDF file type and support many devices."
-        }
-      ],
-      "hover_highlights": [
-        "14 books",
-        "$237 Value"
-      ],
-      "fallback_store_sale_logo": "",
-      "supports_partners": true,
-      "detailed_marketing_blurb": "Finding yourself longing for some original, fresh RPG adventures? You\u2019re in the right place. We\u2019ve joined forces with Free League to bring you ebooks like <em>Tales from the Loop RPG: Rulebook</em>, <em>Symbaroum - Core Rulebook</em>, <em>Symbaroum - Game Master's Guide</em>, and <em>Tales from the Loop: Our Friends the Machines </em>, so you can enjoy epic campaigns across super sci-fi and fantastic fantasy realms! Plus, your purchase helps support a charity of your choice!",
-      "formattedDateInformation": {
-        "startDate": "2021-05-24 11:00:00 ",
-        "endDate": "2021-06-14 11:00:00 "
-      },
-      "tile_logo": "https://hb.imgix.net/8bcaacf0bf0fe9998610bb7aa7f2b1930db51e96.png?auto=compress,format&h=170&w=1200&s=8b11cf565acf2b84fd24c7c81354beb7",
-      "tile_short_name": "Tales from the Loop & Symbaroum by Free League",
-      "start_date": 1621879200000,
-      "end_date": "2021-06-14T18:00:00",
-      "tile_stamp": "books",
-      "is_custom": true,
-      "bundles_sold": 7987.0,
-      "tile_name": "Humble RPG Books Bundle: Tales from the Loop & Symbaroum by Free League",
-      "short_marketing_blurb": "Get Tales from the Loop RPG: Rulebook and more!",
-      "tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/talesfromloopsymbaroumfreeleague_bundle-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "type": "bundle",
-      "highlights": [
-        "Pay What You Want",
-        "14 books",
-        "$237 Value",
-        "Support Charity"
-      ]
-    },
-    {
-      "tile_logo_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/logos/datascienceanddataanalytics_bookbundle_logo-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "machine_name": "datascienceanddataanalytics_bookbundle",
-      "high_res_tile_image": "https://hb.imgix.net/5367ab36834c66e6af7d8a44a4b4d7c3a0c71004.png?auto=compress,format&fit=crop&h=600&w=1200&s=f963383b9d8d18a8ced8145b43b27b77",
-      "disable_hero_tile": false,
-      "marketing_blurb": "Get <em>Data Science Tools</em>, <em>TensorFlow 2 Pocket Primer</em>, <em>Big Data Using Hadoop and Hive</em>, <em>Data Science Fundamentals Pocket Primer</em>, <em>Data Analysis for Business Decisions 2E</em>, and more!",
-      "hover_title": "Pay What You Want",
-      "product_url": "/books/data-science-data-analytics-books",
-      "tile_image": "https://hb.imgix.net/5367ab36834c66e6af7d8a44a4b4d7c3a0c71004.png?auto=compress,format&fit=crop&h=353&w=616&s=e097d429ea0d78c3062a426413941a31",
-      "high_res_tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/datascienceanddataanalytics_bundle-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "hero_highlights": [
-        {
-          "heading": "$1,047 worth of awesome stuff",
-          "tooltip": "Get ebooks collectively valued at up to $1,047."
-        },
-        {
-          "heading": "Pay $1 or more",
-          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
-        },
-        {
-          "heading": "DRM-free",
-          "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
-        },
-        {
-          "heading": "Multi-format",
-          "tooltip": "These ebooks come in PDF, MOBI, and ePub file types to support many devices."
-        }
-      ],
-      "hover_highlights": [
-        "25 books",
-        "$1,047 Value"
-      ],
-      "fallback_store_sale_logo": "",
-      "supports_partners": true,
-      "detailed_marketing_blurb": "Does Data Science mean anything to you? How about Cluster Analysis? The numbers don\u2019t lie, but it\u2019s no use if you can\u2019t understand them! Mercury Publishing has filled our latest bundle with ebooks like <em>Data Analysis for Business Decisions 2E</em>, <em>Data Science Fundamentals Pocket Primer</em>, <em>Big Data Using Hadoop and Hive</em>, and <em>Natural Language Processing and Machine Learning for Developers</em>, so you can get data smart and power up your data science skills. Plus, your purchase helps support Girls Who Code & Whale & Dolphin Conservation!",
-      "formattedDateInformation": {
-        "startDate": "2021-06-07 11:00:00 ",
-        "endDate": "2021-06-28 11:00:00 "
-      },
-      "tile_logo": "https://hb.imgix.net/d1bc086bbfd5ce229d689072b7f0490cf0332385.png?auto=compress,format&h=170&w=1200&s=2a18b2c096b8a6c3fb5f93d4f1ff5b7b",
-      "tile_short_name": "Data Science & Data Analytics by Mercury",
-      "start_date": 1623088800000,
-      "end_date": "2021-06-28T18:00:00",
-      "tile_stamp": "books",
-      "is_custom": true,
-      "bundles_sold": 2610.0,
-      "tile_name": "Humble Book Bundle: Data Science & Data Analytics by Mercury",
-      "short_marketing_blurb": "Put the power of facts and figures to work for you.",
-      "tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/datascienceanddataanalytics_bundle-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "type": "bundle",
-      "highlights": [
-        "Pay What You Want",
-        "25 books",
-        "$1,047 Value",
-        "Support Charity"
-      ]
-    },
-    {
-      "tile_logo_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/logos/megasounddesignerloopcratevol2_software_logo-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "machine_name": "megasounddesignerloopcratevol2_softwarebundle",
-      "high_res_tile_image": "https://hb.imgix.net/4e0b3588fc60343849ec0e9e7adb8a1a45055f83.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=a8732b376a7170e581aefa7030745ee4",
-      "disable_hero_tile": false,
-      "marketing_blurb": "Get Corrosive Machines, DCO-106 Synthesizer, Mixcraft 8 Home Studio, Voltage Modular Ignite, Study Beats Speech Phrases, Mixcraft 9 Recording Studio, and more!",
-      "hover_title": "Pay What You Want",
-      "product_url": "/software/mega-sound-designer-loop-crate-vol-2-software",
-      "tile_image": "https://hb.imgix.net/4e0b3588fc60343849ec0e9e7adb8a1a45055f83.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8399ce49d95f5a44cadd7b41f876f38a",
-      "high_res_tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/megasounddesignerloopcratevol2_bundle-product.jpg",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "static": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "hero_highlights": [
-        {
-          "heading": "$996 worth of awesome stuff",
-          "tooltip": "Get software collectively valued at up to $996."
+          "heading": "$1,120 worth of awesome stuff",
+          "tooltip": "Get software collectively valued at up to $1,120."
         },
         {
           "heading": "Pay $1 or more",
@@ -915,29 +791,29 @@
         }
       ],
       "hover_highlights": [
-        "38 items",
-        "$996 Value"
+        "26 items",
+        "$1,120 Value"
       ],
       "fallback_store_sale_logo": "",
       "supports_partners": true,
-      "detailed_marketing_blurb": "Loot Crate did so well, we\u2019ve made another, featuring more than 13,000 royalty-free assets you can use to make music magic! Discover <em>Mixcraft 9 Recording Studio</em>, <em>Voltage Modular Ignite</em>, <em>DCO-106 Synthesizer</em>, and more in the new Mega Sound Designer Loop Crate Vol 2 bundle. Plus, your purchase helps support Little Kids Rock & Stop AAPI Hate!",
+      "detailed_marketing_blurb": "Humble Bundle and Unity have joined forces to bring you top-notch tools and art packs for your next FPS project. Take advantage of massive savings on great assets, all while contributing to sustainable initiatives worldwide. Then, enter the<span style=\"color: #169fe3;\">&nbsp;<a style=\"color: #169fe3;\" href=\"https://play.unity.com/discover/showcases/2021-unity-x-humble-bundle-showcase\" target=\"_blank\">Unity x Humble Bundle Showcase</a></span> for a chance to share your creation on <a style=\"color: #169fe3;\"href=\"http://play.unity.com/\" target=\"_blank\">play.unity.com</a> and have it livestreamed on Twitch!",
       "formattedDateInformation": {
-        "startDate": "2021-05-20 11:00:00 ",
-        "endDate": "2021-06-17 11:00:00 "
+        "startDate": "2021-09-16 11:00:00 ",
+        "endDate": "2021-09-30 11:00:00 "
       },
-      "tile_logo": "https://hb.imgix.net/143e8c5e82052d9b114dbf34bb32fb3d1a88d219.png?auto=compress,format&h=170&w=1200&s=67b0503481c711bf28ab558a81183a4b",
-      "tile_short_name": "Mega Sound Designer Loop Crate Vol 2",
-      "start_date": 1621533600000,
-      "end_date": "2021-06-17T18:00:00",
+      "tile_logo": "https://hb.imgix.net/2ddd52ccc0a13c5c18b01dba87cb9e208f6bc7ca.png?auto=compress,format&h=170&w=1200&s=2ed16ed018d9b11415a10c7d0929733e",
+      "tile_short_name": "UNITY FPS Games and Game Dev Assets",
+      "start_date": 1631815200000,
+      "end_date": "2021-09-30T18:00:00",
       "tile_stamp": "software",
       "is_custom": true,
-      "bundles_sold": 12330.0,
-      "tile_name": "Humble Software Bundle: Mega Sound Designer Loop Crate Vol 2",
-      "short_marketing_blurb": "Get Corrosive Machines, DCO-106 Synthesizer and more!",
+      "bundles_sold": 10385.0,
+      "tile_name": "Humble Software Bundle: UNITY FPS Games and Game Dev Assets",
+      "short_marketing_blurb": "Call the shots.",
       "tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/humble_home/megasounddesignerloopcratevol2_bundle-product.jpg",
+          "gcs": "images/humble_home/unityfpsgamesandgamedevassets_bundle-product.jpg",
           "imgix": {
             "args": {},
             "master_image": {
@@ -952,8 +828,8 @@
       "type": "bundle",
       "highlights": [
         "Pay What You Want",
-        "38 items",
-        "$996 Value",
+        "26 items",
+        "$1,120 Value",
         "Support Charity"
       ]
     },
@@ -961,7 +837,7 @@
       "tile_logo_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/logos/mightymorphinpowerrangersboomstudios_bookbundle_logo_product.png",
+          "gcs": "images/logos/team17biggestbitsbundle_bundle-logo-product.png",
           "imgix": {
             "args": {},
             "master_image": {
@@ -973,17 +849,17 @@
           }
         }
       },
-      "machine_name": "mightymorphinpowerrangersboomstudios_bookbundle",
-      "high_res_tile_image": "https://hb.imgix.net/ec6a9fd9b9e17c72a5be6b1269f17a67d9442ecc.png?auto=compress,format&fit=crop&h=600&w=1200&s=2510e86a58b30c68496fca26a6b47618",
+      "machine_name": "team17biggestbitsbundle_bundle",
+      "high_res_tile_image": "https://hb.imgix.net/0b9175fbf7cdc38d8f466be095d688b612db8972.png?auto=compress,format&fit=crop&h=600&w=1200&s=ed7d9c85fc20cee53044992aa021af64",
       "disable_hero_tile": false,
-      "marketing_blurb": "Get <em>Mighty Morphin #1</em>, <em>Saban's Go Go Power Rangers Vol. 1</em>, <em>Mighty Morphin Power Rangers Vol. 1</em>, <em>Mighty Morphin Power Rangers: Shattered Grid #1</em>, and more!",
+      "marketing_blurb": "Get <em>Mugsters</em>, <em>Worms Rumble</em>, <em>Overcooked! 2</em>, <em>My Time at Portia</em>, and more!",
       "hover_title": "Pay What You Want",
-      "product_url": "/books/mighty-morphin-power-rangers-boom-studios-books",
-      "tile_image": "https://hb.imgix.net/ec6a9fd9b9e17c72a5be6b1269f17a67d9442ecc.png?auto=compress,format&fit=crop&h=353&w=616&s=d57ea8ff6f7c703e2b90225fa519860b",
+      "product_url": "/games/team-17-greatest-hits-bundle",
+      "tile_image": "https://hb.imgix.net/0b9175fbf7cdc38d8f466be095d688b612db8972.png?auto=compress,format&fit=crop&h=353&w=616&s=3da79eb297eb946b53029cc3db4ac0b6",
       "high_res_tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/humble_home/mightymorphinpowerrangersboomstudios_bookbundle_bundle-product.png",
+          "gcs": "images/humble_home/team17biggestbitsbundle_bundle-product.png",
           "imgix": {
             "args": {},
             "master_image": {
@@ -997,8 +873,99 @@
       },
       "hero_highlights": [
         {
-          "heading": "$640 worth of awesome stuff",
-          "tooltip": "Get comics collectively valued at up to $640."
+          "heading": "$381 worth of awesome stuff",
+          "tooltip": "Get games collectively valued at up to $381."
+        },
+        {
+          "heading": "Pay $1 or more",
+          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
+        }
+      ],
+      "hover_highlights": [
+        "29 games",
+        "$381 Value"
+      ],
+      "fallback_store_sale_logo": "",
+      "supports_partners": true,
+      "detailed_marketing_blurb": "We\u2019re not sure Team17 has ever made a bad game. <em>My Time at Portia</em>? Awesome. <em>Overcooked! 2</em>? Plenty of fun, either alone or with friends. <em>Worms Rumble</em>? Who doesn\u2019t enjoy a worms-based battle royale?! See what we mean? You will when you grab the Team17 Greatest Hits Bundle, packed with some of the studio\u2019s best games. And while you\u2019re enjoying yourself, you can enjoy knowing your purchase benefits a charity of your choice!",
+      "formattedDateInformation": {
+        "startDate": "2021-09-08 13:00:00 ",
+        "endDate": "2021-09-22 11:00:00 "
+      },
+      "tile_logo": "https://hb.imgix.net/8fd3ff02d58237dfb69b1a17850882a9cbbc375e.png?auto=compress,format&h=170&w=1200&s=d636c0df7cad1ee6dfcae181d05334a4",
+      "tile_short_name": "Team 17 Greatest Hits Bundle",
+      "start_date": 1631131200000,
+      "end_date": "2021-09-22T18:00:00",
+      "tile_stamp": "games",
+      "is_custom": true,
+      "bundles_sold": 9553.0,
+      "tile_name": "Team 17 Greatest Hits Bundle",
+      "short_marketing_blurb": "The biggest hits and bits by Team17!",
+      "tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/team17biggestbitsbundle_bundle-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "type": "bundle",
+      "highlights": [
+        "Pay What You Want",
+        "29 games",
+        "$381 Value",
+        "Support Charity"
+      ]
+    },
+    {
+      "tile_logo_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/logos/harrypotterfilmvaultseriesinsighteditions_bundle-logo-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "machine_name": "harrypotterfilmvaultseriesinsighteditions_bookbundle",
+      "high_res_tile_image": "https://hb.imgix.net/758c0d039d6291d4ad1b0d99369b0a4befc1c53c.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=25702cfbe37206a1532459fe5cc8e31e",
+      "disable_hero_tile": false,
+      "marketing_blurb": "Get <em>Harry Potter: Knitting Magic</em>, <em>Harry Potter: Film Vault: Volume 6</em>, <em>Harry Potter: Film Vault: Volume 7</em>, <em>Harry Potter: Film Vault: Volume 1</em>, <em>Harry Potter: Film Vault: Volume 12</em>, and more!",
+      "hover_title": "Pay What You Want",
+      "product_url": "/books/harry-potter-film-vault-series-insight-editions-books",
+      "tile_image": "https://hb.imgix.net/758c0d039d6291d4ad1b0d99369b0a4befc1c53c.jpg?auto=compress,format&fit=crop&h=353&w=616&s=01ec0a6264793ed8dd72e2b63e6a403a",
+      "high_res_tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/harrypotterfilmvaultseriesinsighteditions_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "hero_highlights": [
+        {
+          "heading": "$136 worth of awesome stuff",
+          "tooltip": "Get ebooks collectively valued at up to $136."
         },
         {
           "heading": "Pay $1 or more",
@@ -1006,37 +973,37 @@
         },
         {
           "heading": "DRM-free",
-          "tooltip": "Download the comics onto your favorite device to enjoy anywhere, anytime."
+          "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
         },
         {
-          "heading": "EPUB Format",
-          "tooltip": "These comics come in PDF and ePub file types to support many devices."
+          "heading": "Multi-format",
+          "tooltip": "These ebooks come in PDF and ePub file types to support many devices."
         }
       ],
       "hover_highlights": [
-        "46 comics",
-        "$640 Value"
+        "13 books",
+        "$136 Value"
       ],
       "fallback_store_sale_logo": "",
       "supports_partners": true,
-      "detailed_marketing_blurb": "We\u2019ve all done the moves, wished we had costumes, and enjoyed the stories. Now it\u2019s time to live (or re-live if it\u2019s been a while) the best of BOOM! Studios Power Rangers comics like <em>Mighty Morphin #1</em>, <em>Mighty Morphin Power Rangers/Teenage Mutant Ninja Turtles</em>, <em>Saban's Go Go Power Rangers Vol. 1</em>, and <em>Mighty Morphin Power Rangers Vol. 1</em>.   Featuring fan classics, illustrations by the likes of Dan Mora, and some perfect entry points into the Ranger\u2019s storylines, there\u2019s no better place than the Mighty Morphin Power Rangers by BOOM! Studios bundle to enjoy the Power Rangers!  Plus, your purchase helps support Stop AAPI Hate & the Human Rights Campaign Foundation!",
+      "detailed_marketing_blurb": "Step beyond the limits of the silver screen and join Insight Editions in our newest bundle, a Gringott\u2019s vault filled with the complete Harry Potter Film Vault collection! Discover the makings of the movies, everything from magical creatures to props and more. 12 in-depth volumes will ensure you\u2019re the ultimate wizarding whizz, and there\u2019s even the Harry Potter: Knitting Magic book included - in case you feel like creating some memorabilia to show your house pride! Your Potterific purchase helps support NatureBridge!",
       "formattedDateInformation": {
-        "startDate": "2021-06-03 11:00:00 ",
-        "endDate": "2021-06-24 11:00:00 "
+        "startDate": "2021-09-20 11:00:00 ",
+        "endDate": "2021-10-11 11:00:00 "
       },
-      "tile_logo": "https://hb.imgix.net/31556fbd0fcd1ec78a5242707c5ecfaeb5c6220f.png?auto=compress,format&h=170&w=1200&s=755bb6134902c71ff6153034990eeb4e",
-      "tile_short_name": "Mighty Morphin Power Rangers by BOOM! Studios",
-      "start_date": 1622743200000,
-      "end_date": "2021-06-24T18:00:00",
-      "tile_stamp": "comics",
+      "tile_logo": "https://hb.imgix.net/d0efc393ed42b9b2d6388d7ba3e6c1af51e6307d.png?auto=compress,format&h=170&w=1200&s=20cec7da131c2de62b92977f7e5045c3",
+      "tile_short_name": "Harry Potter Film Vault Series by Insight Editions",
+      "start_date": 1632160800000,
+      "end_date": "2021-10-11T18:00:00",
+      "tile_stamp": "books",
       "is_custom": true,
-      "bundles_sold": 3551.0,
-      "tile_name": "Humble Comics Bundle: Mighty Morphin Power Rangers by BOOM! Studios",
-      "short_marketing_blurb": "It\u2019s morphin\u2019 time!",
+      "bundles_sold": 530.0,
+      "tile_name": "Humble Book Bundle: Harry Potter Film Vault Series by Insight Editions",
+      "short_marketing_blurb": "For the ultimate Harry Potter film fan",
       "tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/humble_home/mightymorphinpowerrangersboomstudios_bookbundle_bundle-product.png",
+          "gcs": "images/humble_home/harrypotterfilmvaultseriesinsighteditions_bundle-product.jpg",
           "imgix": {
             "args": {},
             "master_image": {
@@ -1051,8 +1018,8 @@
       "type": "bundle",
       "highlights": [
         "Pay What You Want",
-        "46 comics",
-        "$640 Value",
+        "13 books",
+        "$136 Value",
         "Support Charity"
       ]
     },
@@ -1060,7 +1027,7 @@
       "tile_logo_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/logos/pythondevelopment_software_logo-product.png",
+          "gcs": "images/logos/unityrpgfantasy_software_logo-product.png",
           "imgix": {
             "args": {},
             "master_image": {
@@ -1072,17 +1039,17 @@
           }
         }
       },
-      "machine_name": "pythondevelopment_softwarebundle",
-      "high_res_tile_image": "https://hb.imgix.net/fd6bc1ce2707582afc66c5f2d1fffa810342d68d.png?auto=compress,format&fit=crop&h=600&w=1200&s=0e957d435c34eef265ccf5a02ad589fa",
+      "machine_name": "unityfantasygamesandevassets_softwarebundle",
+      "high_res_tile_image": "https://hb.imgix.net/572d3d8b125c01bff59d0ebd874005f440521444.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=bae1fe020b3278df03adda2e4dd656ba",
       "disable_hero_tile": false,
-      "marketing_blurb": "Get Unit Testing with Python, Python for Data Analysts, Building Knowledge Graphs with Python, Understanding Machine Learning with Python, Building Your First Python Analytics Solution, and more!",
+      "marketing_blurb": "Get Odin Inspector and Serializer, Octave3D-Level Design, RPG Builder, The Minute of Islands, GUI PRO Kit - Fantasy RPG, and more!",
       "hover_title": "Pay What You Want",
-      "product_url": "/software/python-development-software",
-      "tile_image": "https://hb.imgix.net/fd6bc1ce2707582afc66c5f2d1fffa810342d68d.png?auto=compress,format&fit=crop&h=353&w=616&s=c1099b0ab02abe9150e76aa11399d9d5",
+      "product_url": "/software/unity-fantasy-games-dev-assets-software",
+      "tile_image": "https://hb.imgix.net/572d3d8b125c01bff59d0ebd874005f440521444.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ee70ea35531842e64a1490d385414b03",
       "high_res_tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/humble_home/pythondevelopment_bundle-product.png",
+          "gcs": "images/humble_home/unityfantasygamesandevassets_bundle-product.jpg",
           "imgix": {
             "args": {},
             "master_image": {
@@ -1096,16 +1063,594 @@
       },
       "hero_highlights": [
         {
+          "heading": "$2,021 worth of awesome stuff",
+          "tooltip": "Get content collectively valued at up to $2,021."
+        },
+        {
           "heading": "Pay $1 or more",
           "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
         },
         {
-          "heading": "20 Items",
-          "tooltip": ""
+          "heading": "Redeem on Unity",
+          "tooltip": "Pay $1 or more for access to content on Steam."
+        }
+      ],
+      "hover_highlights": [
+        "28 items",
+        "$2,021 Value"
+      ],
+      "fallback_store_sale_logo": "",
+      "supports_partners": true,
+      "detailed_marketing_blurb": "Get in on time-saving tools and other stellar art packs for your next Fantasy/ RPG project, all while contributing to green initiatives worldwide. Then, show off your sustainable superstar status by entering the<span style=\"color: #169fe3;\">&nbsp;<a style=\"color: #169fe3;\" href=\"https://play.unity.com/discover/showcases/2021-unity-x-humble-bundle-showcase\" target=\"_blank\">Unity x Humble Bundle Showcase</a></span> for a chance to have your game featured on <a style=\"color: #169fe3;\"href=\"http://play.unity.com/\" target=\"_blank\">play.unity.com</a> and livestreamed on Twitch!",
+      "formattedDateInformation": {
+        "startDate": "2021-09-01 11:00:00 ",
+        "endDate": "2021-09-30 11:00:00 "
+      },
+      "tile_logo": "https://hb.imgix.net/5797932994f6142facecd768670a9b99605828c0.png?auto=compress,format&h=170&w=1200&s=5fdc1e0d6c5666eee1c5fd08d795f545",
+      "tile_short_name": "Unity Fantasy Games & Game Dev Assets",
+      "start_date": 1630519200000,
+      "end_date": "2021-09-30T18:00:00",
+      "tile_stamp": "software",
+      "is_custom": true,
+      "bundles_sold": 47106.0,
+      "tile_name": "Humble Software Bundle: Unity Fantasy Games & Game Dev Assets",
+      "short_marketing_blurb": "Be your own hero.",
+      "tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/unityfantasygamesandevassets_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "type": "bundle",
+      "highlights": [
+        "Pay What You Want",
+        "28 items",
+        "$2,021 Value",
+        "Support Charity"
+      ]
+    },
+    {
+      "tile_logo_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/logos/telltalegames_bundle-logo-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "machine_name": "telltalegames_bundle",
+      "high_res_tile_image": "https://hb.imgix.net/a1d6613e033159a220c4900b7084659c7e31fbe0.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=6001f893bd17e8121597d4b36614c96a",
+      "disable_hero_tile": false,
+      "marketing_blurb": "Get <em>The Walking Dead</em>, <em>The Wolf Among Us</em>, <em>The Walking Dead: Final Season</em>, <em>Batman: The Enemy Within - The Telltale Series</em>, and more!",
+      "hover_title": "Pay What You Want",
+      "product_url": "/games/telltale-games",
+      "tile_image": "https://hb.imgix.net/a1d6613e033159a220c4900b7084659c7e31fbe0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=1f37be2b636e144c2c0538cf1acbb3f8",
+      "high_res_tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/telltalegames_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "hero_highlights": [
+        {
+          "heading": "$139 worth of awesome stuff",
+          "tooltip": "Get games collectively valued at up to $139."
         },
         {
-          "heading": "Support Charity",
-          "tooltip": ""
+          "heading": "Pay $1 or more",
+          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
+        },
+        {
+          "heading": "Redeem on Steam",
+          "tooltip": "Pay $1 or more for access to content on Steam."
+        }
+      ],
+      "hover_highlights": [
+        "11 games",
+        "$139 Value"
+      ],
+      "fallback_store_sale_logo": "",
+      "supports_partners": true,
+      "detailed_marketing_blurb": "You\u2019ve no doubt heard of Telltale games; The Walking Dead, Batman, The Wolf Among Us? We\u2019re sure at least one of those is ringing a bell. Well, we\u2019ve got good news. Our new bundle, aptly titled Humble Telltale Games Bundle, includes all of them, the complete series!. That means when you pick up this bundle, you\u2019ll enjoy the entire story of <em>The Walking Dead</em>, <em>The Wolf Among Us</em>, and <em>Telltale's Batman</em>! And while you\u2019re living those stories, your purchase helps support a charity of your choice!",
+      "formattedDateInformation": {
+        "startDate": "2021-09-10 11:00:00 ",
+        "endDate": "2021-09-24 11:00:00 "
+      },
+      "tile_logo": "https://hb.imgix.net/aec126e732b1cbc53afd47a2649cae2a18603c74.png?auto=compress,format&h=170&w=1200&s=78d3b8b2d6b4ef24c4e490ee6c6251c2",
+      "tile_short_name": "Telltale Games",
+      "start_date": 1631296800000,
+      "end_date": "2021-09-24T18:00:00",
+      "tile_stamp": "games",
+      "is_custom": true,
+      "bundles_sold": 16232.0,
+      "tile_name": "Humble Telltale Games Bundle",
+      "short_marketing_blurb": "Experience 3 Complete Telltale Tales!",
+      "tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/telltalegames_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "type": "bundle",
+      "highlights": [
+        "Pay What You Want",
+        "11 games",
+        "$139 Value",
+        "Support Charity"
+      ]
+    },
+    {
+      "tile_logo_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/logos/voiceswarhammer2021blacklibrary_bundle-logo-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "machine_name": "voiceswarhammer2021blacklibrary_bookbundle",
+      "high_res_tile_image": "https://hb.imgix.net/4611d90c168ddeeb12511060a93d9d34e8ba03ff.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=0f58637935afc439b1014a2f7a563931",
+      "disable_hero_tile": false,
+      "marketing_blurb": "Get <em>Beastgrave</em>, <em>Soul Hunter</em>, <em>Cadian Honour</em>, and more!",
+      "hover_title": "Pay What You Want",
+      "product_url": "/books/voices-warhammer-2021-black-library-books",
+      "tile_image": "https://hb.imgix.net/4611d90c168ddeeb12511060a93d9d34e8ba03ff.jpg?auto=compress,format&fit=crop&h=353&w=616&s=f690a27d32069ff0a50906b305f91fd2",
+      "high_res_tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/voiceswarhammer2021blacklibrary_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "hero_highlights": [
+        {
+          "heading": "$589 worth of awesome stuff",
+          "tooltip": "Get ebooks and audiobooks collectively valued at up to $589."
+        },
+        {
+          "heading": "Pay $1 or more",
+          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
+        },
+        {
+          "heading": "DRM-free",
+          "tooltip": "Download the ebooks and audiobooks onto your favorite device to enjoy anywhere, anytime."
+        },
+        {
+          "heading": "Multi-format",
+          "tooltip": "These ebooks and audiobooks come in multiple file types to support many devices."
+        }
+      ],
+      "hover_highlights": [
+        "19 books",
+        "$589 Value"
+      ],
+      "fallback_store_sale_logo": "",
+      "supports_partners": true,
+      "detailed_marketing_blurb": "Age of Sigmar? 40K? Whether you\u2019re a fan of fantasy or sci-fi, Black Library is delivering a wealth of Warhammer stories right to your eardrums, with our newest bundle. Sit back, relax, and lose yourself in audiobooks and audiodramas like <em>Cadian Honour</em>, <em>Soul Hunter</em>, and much more! Plus, your purchase helps support EveryLibrary!",
+      "formattedDateInformation": {
+        "startDate": "2021-09-16 11:00:00 ",
+        "endDate": "2021-10-07 11:00:00 "
+      },
+      "tile_logo": "https://hb.imgix.net/2a862f44cef91037711cd248882baa5256b7e2e9.png?auto=compress,format&h=170&w=1200&s=ace4055574ce8dffc94f094ec56eb0cb",
+      "tile_short_name": "Voices of Warhammer 2021 by Black Library",
+      "start_date": 1631815200000,
+      "end_date": "2021-10-07T18:00:00",
+      "tile_stamp": "books",
+      "is_custom": true,
+      "bundles_sold": 4426.0,
+      "tile_name": "Humble Audiobook Bundle: Voices of Warhammer 2021 by Black Library",
+      "short_marketing_blurb": "Live the Warhammer universe, one audiobook at a time",
+      "tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/voiceswarhammer2021blacklibrary_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "type": "bundle",
+      "highlights": [
+        "Pay What You Want",
+        "19 books",
+        "$589 Value",
+        "Support Charity"
+      ]
+    },
+    {
+      "tile_logo_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/logos/bebadguy_bundle-logo-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "machine_name": "bebadguy_bundle",
+      "high_res_tile_image": "https://hb.imgix.net/9f9dbd13de989c044c9474dfe5a5f542df8d8eac.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=b2868e765b5450030a9153ab6ce02de3",
+      "disable_hero_tile": false,
+      "marketing_blurb": "Get <em>Dungeons 3</em>, <em>Postal Redux</em>, <em>Mafia: 3 Definitive Edition</em>, <em>Mafia: 2 Definitive Edition</em>, and more!",
+      "hover_title": "Pay What You Want",
+      "product_url": "/games/be-bad-guy",
+      "tile_image": "https://hb.imgix.net/9f9dbd13de989c044c9474dfe5a5f542df8d8eac.jpg?auto=compress,format&fit=crop&h=353&w=616&s=bdc962a6d813be77db4b0974ec46a6aa",
+      "high_res_tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/bebadguy_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "hero_highlights": [
+        {
+          "heading": "$134 worth of awesome stuff",
+          "tooltip": "Get games collectively valued at up to $134."
+        },
+        {
+          "heading": "Pay $1 or more",
+          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
+        }
+      ],
+      "hover_highlights": [
+        "6 games",
+        "$134 Value"
+      ],
+      "fallback_store_sale_logo": "",
+      "supports_partners": true,
+      "detailed_marketing_blurb": "Let\u2019s face it. It can get boring being a goody-two-shoes in games all the time. Sometimes, you need to let off steam. Sometimes, you need to be the bad guy, duh. That\u2019s exactly what this bundle\u2019s all about; being good at being bad. That\u2019s why we\u2019ve put together a bunch of games including <em>Dungeons III</em>, <em>Mafia: 2 Definitive Edition</em>, and <em>Mafia: 3 Definitive Edition</em>! While you\u2019re letting off steam and being the villain, your purchase helps support a charity of your choice!",
+      "formattedDateInformation": {
+        "startDate": "2021-09-15 11:00:00 ",
+        "endDate": "2021-09-29 11:00:00 "
+      },
+      "tile_logo": "https://hb.imgix.net/e736558132d479228cc2a5dfed3ca6ddce82615b.png?auto=compress,format&h=170&w=1200&s=2e5f903742b2cf5f7e1842f6a7b98b90",
+      "tile_short_name": "Be the Bad Guy",
+      "start_date": 1631728800000,
+      "end_date": "2021-09-29T18:00:00",
+      "tile_stamp": "games",
+      "is_custom": true,
+      "bundles_sold": 8677.0,
+      "tile_name": "Humble Be the Bad Guy Bundle",
+      "short_marketing_blurb": "Be the Baddie, and Enjoy It!",
+      "tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/bebadguy_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "type": "bundle",
+      "highlights": [
+        "Pay What You Want",
+        "6 games",
+        "$134 Value",
+        "Support Charity"
+      ]
+    },
+    {
+      "tile_logo_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/logos/charlesplattmakecommunity_bookbundle_logo-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "machine_name": "charlesplattmakecommunity_bookbundle",
+      "high_res_tile_image": "https://hb.imgix.net/284b4ec4701fcd953d22d185f50ea6058334c5bd.png?auto=compress,format&fit=crop&h=600&w=1200&s=1d7e745420dc1c08eda81fd71c8f3e73",
+      "disable_hero_tile": false,
+      "marketing_blurb": "Get <em>Make: Magazine, Volume 65</em>, <em>Make Electronics, 2nd Edition</em>, <em>Make: Tools: How They Work and How to Use Them</em>, <em>Encyclopedia of Electronic Components Volume 3: Sensors</em>, and more!",
+      "hover_title": "Pay What You Want",
+      "product_url": "/books/charles-platt-make-community-books",
+      "tile_image": "https://hb.imgix.net/284b4ec4701fcd953d22d185f50ea6058334c5bd.png?auto=compress,format&fit=crop&h=353&w=616&s=30287f8a350bbc6f55abf3f7e498bada",
+      "high_res_tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/charlesplattmakecommunity_bundle-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "hero_highlights": [
+        {
+          "heading": "$544 worth of awesome stuff",
+          "tooltip": "Get ebooks collectively valued at up to $544."
+        },
+        {
+          "heading": "Pay $1 or more",
+          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
+        },
+        {
+          "heading": "DRM-free",
+          "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+        },
+        {
+          "heading": "Multi-format",
+          "tooltip": "These ebooks come in PDF, MOBI, and ePub file types to support many devices."
+        }
+      ],
+      "hover_highlights": [
+        "32 books",
+        "$544 Value"
+      ],
+      "fallback_store_sale_logo": "",
+      "supports_partners": true,
+      "detailed_marketing_blurb": "We've teamed up with Make: Community for our newest bundle! Get ebooks like <em>Encyclopedia of Electronic Components Volume 3: Sensors</em>, <em>Make: Tools: How They Work and How to Use Them</em>, <em>Make: Magazine, Volume 65</em>, <em>Encyclopedia of Electronic Components Volume 1: Resistors, Capacitors, Inductors, Switches, Encoders, Relays, Transistors</em>, <em>Make Electronics, 2nd Edition</em>, and <em>Encyclopedia of Electronic Components Volume 2: LEDs, LCDs, Audio, Thyristors, Digital Logic, and Amplification</em>. Plus, your purchase will support Maker Ed Initiative!",
+      "formattedDateInformation": {
+        "startDate": "2021-09-06 11:00:00 ",
+        "endDate": "2021-09-27 11:00:00 "
+      },
+      "tile_logo": "https://hb.imgix.net/c26a212b1825c76d00b2f84333fa24262f4c3ad7.png?auto=compress,format&h=170&w=1200&s=a48a2150eec9f68a8137a7ea06d19010",
+      "tile_short_name": "Advanced Making Electronics with Charles Platt by Make:",
+      "start_date": 1630951200000,
+      "end_date": "2021-09-27T18:00:00",
+      "tile_stamp": "books",
+      "is_custom": true,
+      "bundles_sold": 7161.0,
+      "tile_name": "Humble Book Bundle: Advanced Making Electronics with Charles Platt by Make:",
+      "short_marketing_blurb": "Level up your engineering and electronics knowledge.",
+      "tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/charlesplattmakecommunity_bundle-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "type": "bundle",
+      "highlights": [
+        "Pay What You Want",
+        "32 books",
+        "$544 Value",
+        "Support Charity"
+      ]
+    },
+    {
+      "tile_logo_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/logos/lifehacks_bundle-logo-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "machine_name": "lifehacks_bookbundle",
+      "high_res_tile_image": "https://hb.imgix.net/19cdac41935e1d05dd6828c831f1da1acdb5d368.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=d0134d5163fc788bc6f45477e43cc45e",
+      "disable_hero_tile": false,
+      "marketing_blurb": "Get <em>Life Hacks</em>, <em>Money Hacks</em>, <em>Travel Hacks</em>, and more!",
+      "hover_title": "Pay What You Want",
+      "product_url": "/books/life-hacks-adams-books",
+      "tile_image": "https://hb.imgix.net/19cdac41935e1d05dd6828c831f1da1acdb5d368.jpg?auto=compress,format&fit=crop&h=353&w=616&s=5f61b52d1e90898356c2982d796858b5",
+      "high_res_tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/lifehacks_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "hero_highlights": [
+        {
+          "heading": "$415 worth of awesome stuff",
+          "tooltip": "Get ebooks collectively valued at up to $415."
+        },
+        {
+          "heading": "Pay $1 or more",
+          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
+        },
+        {
+          "heading": "DRM-free",
+          "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+        },
+        {
+          "heading": "Multi-format",
+          "tooltip": "These ebooks come in PDF, MOBI, and ePub file types to support many devices."
+        }
+      ],
+      "hover_highlights": [
+        "37 books",
+        "$415 Value"
+      ],
+      "fallback_store_sale_logo": "",
+      "supports_partners": true,
+      "detailed_marketing_blurb": "What if there were ways to speed things up, make progress faster, or save yourself some time? Struggle to sleep, focus, learn? What about something more serious, like surviving dangerous situations or reducing stress? Life hacks. We\u2019ve heard the term before, but now it\u2019s time to put words into action with our new bundle! Adams Media is delivering a shocking wealth of life hacks to help you get the drop on life, with guides like <em>Life Hacks</em>, <em>Survival Hacks</em>, <em>College Hacks</em>, and <em>Brain Hacks</em>. Plus, your purchase helps support a charity of your choice!",
+      "formattedDateInformation": {
+        "startDate": "2021-09-13 11:00:00 ",
+        "endDate": "2021-10-04 11:00:00 "
+      },
+      "tile_logo": "https://hb.imgix.net/292b9c46258de3cc833719376e46b1ab80c7afe4.png?auto=compress,format&h=170&w=1200&s=8adf239ed036c57983c7db089037d014",
+      "tile_short_name": "Life Hacks by Adams Media",
+      "start_date": 1631556000000,
+      "end_date": "2021-10-04T18:00:00",
+      "tile_stamp": "books",
+      "is_custom": true,
+      "bundles_sold": 4810.0,
+      "tile_name": "Humble Book Bundle: Life Hacks by Adams Media",
+      "short_marketing_blurb": "Hack Your Life.",
+      "tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/lifehacks_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "type": "bundle",
+      "highlights": [
+        "Pay What You Want",
+        "37 books",
+        "$415 Value",
+        "Support Charity"
+      ]
+    },
+    {
+      "tile_logo_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/logos/kuberneteswithpluralsight_bundle-logo-product.png",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "machine_name": "kuberneteswithpluralsight_softwarebundle",
+      "high_res_tile_image": "https://hb.imgix.net/bed50474193be0124b54b983ebdf5191c63f5af6.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=196a32faedc4942f0c9343afa5bbd48a",
+      "disable_hero_tile": false,
+      "marketing_blurb": "Get Managing Apps on Kubernetes with Istio, Docker and Kubernetes: The Big Picture, Kubernetes for Developers: Core Concepts, Getting Started with Google Kubernetes Engine, Kubernetes for Developers: Moving to the Cloud, and more!",
+      "hover_title": "Pay What You Want",
+      "product_url": "/software/kubernetes-with-pluralsight-software",
+      "tile_image": "https://hb.imgix.net/bed50474193be0124b54b983ebdf5191c63f5af6.jpg?auto=compress,format&fit=crop&h=353&w=616&s=394b1dbb4bb4bc0c4c3ff01f698c54b8",
+      "high_res_tile_image_information": {
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/kuberneteswithpluralsight_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
+      },
+      "hero_highlights": [
+        {
+          "heading": "Pay What You Want"
+        },
+        {
+          "heading": "20 items"
+        },
+        {
+          "heading": "{msrp} Value"
+        },
+        {
+          "heading": "Support Charity"
         }
       ],
       "hover_highlights": [
@@ -1114,24 +1659,24 @@
       ],
       "fallback_store_sale_logo": "",
       "supports_partners": true,
-      "detailed_marketing_blurb": "Reading Python syntax can be quite easy but putting it into practice can be trickier. Find plenty of applications to put your Python knowledge to work with software like <em>Building Knowledge Graphs with Python</em>, <em>Understanding Machine Learning with Python</em>, <em>Unit Testing with Python</em>, and <em>Python for Data Analysts</em>. Plus, your purchase helps support Girls Who Code, Code.org, and a charity of your choice!",
+      "detailed_marketing_blurb": "Kubernetes (also known as k8s or \u201ckube\u201d if the word\u2019s making your eyes go funny) is an open source container platform that helps automate various processes in relation to deploying, managing, and scaling containerized apps! Pretty handy if you\u2019re a developer, huh? Pluralsight certainly seems to think so, which is why they\u2019ve teamed up with us to bring you a whole curriculum of knowledge on Kubernetes, with software like Why Kubernetes, Getting Started with Google Kubernetes Engine, and Kubernetes for Developers: Core Concepts.  And while you\u2019re mastering \u201cKube\u201d, you\u2019ll be supporting Girls Who Code & Code.org!",
       "formattedDateInformation": {
-        "startDate": "2021-05-27 11:00:00 ",
-        "endDate": "2021-06-17 11:00:00 "
+        "startDate": "2021-09-09 11:00:00 ",
+        "endDate": "2021-09-30 11:00:00 "
       },
-      "tile_logo": "https://hb.imgix.net/fc07797e3f5c12bb32a8b4b16fa23d844b30f78e.png?auto=compress,format&h=170&w=1200&s=f4a9e25d4374feab5fee048cda734b15",
-      "tile_short_name": "Python Development",
-      "start_date": 1622138400000,
-      "end_date": "2021-06-17T18:00:00",
+      "tile_logo": "https://hb.imgix.net/3f7d3f0594411f3d6de169cefca14fc715401d52.png?auto=compress,format&h=170&w=1200&s=446c1521debb17ec74dda71c54f4ccd1",
+      "tile_short_name": "Kubernetes with Pluralsight",
+      "start_date": 1631210400000,
+      "end_date": "2021-09-30T18:00:00",
       "tile_stamp": "software",
       "is_custom": true,
-      "bundles_sold": 6917.0,
-      "tile_name": "Humble Software Bundle: Python Development",
-      "short_marketing_blurb": "Power up your Python proficiency!",
+      "bundles_sold": 4230.0,
+      "tile_name": "Humble Software Bundle: Kubernetes with Pluralsight",
+      "short_marketing_blurb": "Automate, scale, and manage with Kubernetes!",
       "tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/humble_home/pythondevelopment_bundle-product.png",
+          "gcs": "images/humble_home/kuberneteswithpluralsight_bundle-product.jpg",
           "imgix": {
             "args": {},
             "master_image": {
@@ -1153,536 +1698,201 @@
     },
     {
       "tile_logo_information": {
-        "config": null
-      },
-      "machine_name": "horrorsale_2021",
-      "reverse_logo_and_sale_text": null,
-      "high_res_tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/storefront/master_images/horror-sale-2020-store-grid-product.png",
+          "gcs": "images/logos/tvmoviestitancomics_bundle-logo-product.png",
           "imgix": {
             "args": {},
             "master_image": {
               "image_type": "gcs",
               "gcs": "",
+              "static": "",
               "imgix": {}
             }
           }
         }
       },
-      "high_res_tile_image": "https://hb.imgix.net/61d067bc78a0eb559ef73a2c4971a8223d59934e.png?auto=compress,format&fit=crop&h=600&w=1200&s=e42cb2daefd02aecf4b71b57c4c19885",
-      "fallback_logo_information": {
-        "config": null
-      },
-      "marketing_blurb": null,
-      "product_url": "/store/promo/horror-sale/",
-      "tile_image": "https://hb.imgix.net/61d067bc78a0eb559ef73a2c4971a8223d59934e.png?auto=compress,format&fit=crop&h=353&w=616&s=1cfb4135be41d0f1390e2d4a9dab8762",
-      "category": "bundle/monthly",
-      "is_custom": true,
-      "fallback_store_sale_logo": "",
-      "highlights": null,
-      "use_wide_promo_logo": null,
-      "supports_partners": true,
-      "detailed_marketing_blurb": null,
-      "tile_logo": "",
-      "hide_end_date": null,
-      "end_date": "2021-06-14T17:00:00",
-      "tile_stamp": null,
-      "tile_name": "Horror Sale",
-      "short_marketing_blurb": null,
-      "product_title": null,
-      "tile_image_information": {
+      "machine_name": "tvmoviestitancomics_bookbundle",
+      "high_res_tile_image": "https://hb.imgix.net/8d1abfb69b92e608a58cf9217da7bc7f2cd1a783.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=0132d30f20339f94dd96501820245f98",
+      "disable_hero_tile": false,
+      "marketing_blurb": "Get <em>The Prisoner</em>, <em>Robotech Volume 4</em>, <em>Sherlock: The Great Game</em>, <em>Penny Dreadful mini-series</em>, <em>Blade Runner 2019 Volume 1</em>, <em>Star Trek: Picard: The Classic Chronicles</em>, and more!",
+      "hover_title": "Pay What You Want",
+      "product_url": "/books/tv-movies-titan-comics-books",
+      "tile_image": "https://hb.imgix.net/8d1abfb69b92e608a58cf9217da7bc7f2cd1a783.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ea88fb88b4132b367c354ec899b3eac4",
+      "high_res_tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/storefront/master_images/horror-sale-2020-store-grid-product.png",
+          "gcs": "images/humble_home/tvmoviestitancomics_bundle-product.jpg",
           "imgix": {
             "args": {},
             "master_image": {
               "image_type": "gcs",
               "gcs": "",
+              "static": "",
               "imgix": {}
             }
           }
         }
       },
-      "carousel_body_text": null,
-      "type": "storepagetile",
-      "is_store_page_layout": true,
-      "hide_sale_text": null
-    },
-    {
-      "machine_name": "monsterhunter_world_storefront",
-      "current_pricing": {
-        "RU": [
-          "659.34",
-          "RUB"
-        ],
-        "CN": [
-          "133.98",
-          "CNY"
-        ],
-        "CA": [
-          "26.39",
-          "CAD"
-        ],
-        "TR": [
-          "167.92",
-          "TRY"
-        ],
-        "US": [
-          "19.79",
-          "USD"
-        ],
-        "NZ": [
-          "32.31",
-          "NZD"
-        ],
-        "AU": [
-          "29.66",
-          "AUD"
-        ],
-        "PH": [
-          "945.10",
-          "PHP"
-        ],
-        "EUROPE_GBP": [
-          "16.49",
-          "GBP"
-        ],
-        "EUROPE_EURO": [
-          "19.79",
-          "EUR"
-        ]
-      },
-      "full_price": {
-        "currency": "USD",
-        "amount": 29.99
-      },
-      "product_url": "/store/monster-hunter-world",
-      "platforms": [
-        "steam"
+      "hero_highlights": [
+        {
+          "heading": "$496 worth of awesome stuff",
+          "tooltip": "Get comics and ebooks collectively valued at up to $496."
+        },
+        {
+          "heading": "Pay $1 or more",
+          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
+        },
+        {
+          "heading": "DRM-free",
+          "tooltip": "Download the comics and ebooks onto your favorite device to enjoy anywhere, anytime."
+        },
+        {
+          "heading": "Multi-format",
+          "tooltip": "These comics and ebooks come in multiple file types to support many devices."
+        }
       ],
-      "current_price": {
-        "currency": "USD",
-        "amount": 19.79
-      },
-      "high_res_tile_image_information": {
-        "path": "images/storefront/master_images/monsterhunter_world_storefront.jpeg"
-      },
-      "is_custom": true,
-      "fallback_store_sale_logo": "",
-      "high_res_tile_image": "https://hb.imgix.net/d5f290c27cc5f1fca9f6340508ba2488b2c07958.jpeg?auto=compress,format&fit=crop&h=600&w=1200&s=d71847b4d99b10272fcba40f0956b5b3",
-      "supports_partners": true,
-      "full_pricing": {
-        "RU": [
-          "999",
-          "RUB"
-        ],
-        "CN": [
-          "203",
-          "CNY"
-        ],
-        "CA": [
-          "39.99",
-          "CAD"
-        ],
-        "US": [
-          "29.99",
-          "USD"
-        ],
-        "NZ": [
-          "48.96",
-          "NZD"
-        ],
-        "AU": [
-          "44.95",
-          "AUD"
-        ],
-        "EUROPE_GBP": [
-          "24.99",
-          "GBP"
-        ],
-        "EUROPE_EURO": [
-          "29.99",
-          "EUR"
-        ]
-      },
-      "tile_logo": "",
-      "type": "store",
-      "incompatible_features": [],
-      "tile_name": "MONSTER HUNTER: WORLD",
-      "tile_image": "https://hb.imgix.net/d5f290c27cc5f1fca9f6340508ba2488b2c07958.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=d54c9e50423c086421970a0edae71024",
-      "tile_image_information": {
-        "path": "images/storefront/master_images/monsterhunter_world_storefront.jpeg"
-      },
-      "rewards_split": 0.0,
-      "operating_systems": [
-        "windows"
-      ]
-    },
-    {
-      "machine_name": "ninjagaiden_mastercollectionninjagaiden_deluxe_storefront",
-      "current_pricing": {
-        "RU": [
-          "3247.25",
-          "RUB"
-        ],
-        "EUROPE_EURO": [
-          "36.95",
-          "EUR"
-        ],
-        "CA": [
-          "54.47",
-          "CAD"
-        ],
-        "TR": [
-          "381.70",
-          "TRY"
-        ],
-        "US": [
-          "44.99",
-          "USD"
-        ],
-        "NZ": [
-          "62.57",
-          "NZD"
-        ],
-        "AU": [
-          "58.13",
-          "AUD"
-        ],
-        "PH": [
-          "2148.25",
-          "PHP"
-        ],
-        "EUROPE_GBP": [
-          "31.89",
-          "GBP"
-        ],
-        "CN": [
-          "287.62",
-          "CNY"
-        ]
-      },
-      "full_price": {
-        "currency": "USD",
-        "amount": 49.99
-      },
-      "product_url": "/store/ninja-gaiden-master-collection-deluxe-edition",
-      "platforms": [
-        "steam"
+      "hover_highlights": [
+        "32 comics",
+        "$496 Value"
       ],
-      "current_price": {
-        "currency": "USD",
-        "amount": 44.99
-      },
-      "high_res_tile_image_information": {
-        "path": "images/storefront/master_images/EN_main_capsule_DDX.png"
-      },
-      "is_custom": true,
       "fallback_store_sale_logo": "",
-      "high_res_tile_image": "https://hb.imgix.net/f5f49bd70ad53de9699b19909eb1fc20d81565a5.png?auto=compress,format&fit=crop&h=600&w=1200&s=169bd8bcab41c148fe113c7740acd3e0",
       "supports_partners": true,
-      "full_pricing": {
-        "US": [
-          "49.99",
-          "USD"
-        ]
+      "detailed_marketing_blurb": "We've teamed up with Titan Comics for our newest bundle! Get comics and ebooks including the manga reimagining of <em>Sherlock (starring Benedict Cumberbatch as the eponymous sleuth)</em>, <em>Showtime's hit Penny Dreadful</em>, <em>Robotech</em>, <em>Robotech Volume 4</em>, <em>Blade Runner 2019</em>, and <em>Star Trek</em>. Plus, your purchase will support Comicbooks for Kids!",
+      "formattedDateInformation": {
+        "startDate": "2021-09-10 11:00:00 ",
+        "endDate": "2021-10-01 11:00:00 "
       },
-      "tile_logo": "",
-      "type": "store",
-      "incompatible_features": [],
-      "tile_name": "NINJA GAIDEN: Master Collection Deluxe Edition",
-      "tile_image": "https://hb.imgix.net/f5f49bd70ad53de9699b19909eb1fc20d81565a5.png?auto=compress,format&fit=crop&h=353&w=616&s=c898c975a6e63ce62a925013f562b236",
+      "tile_logo": "https://hb.imgix.net/0e297edf5fca762bfbd75249fa8c8d63c20c9240.png?auto=compress,format&h=170&w=1200&s=e43614c1294e614081bdd0a29b200cf4",
+      "tile_short_name": "TV & Movies by Titan Comics",
+      "start_date": 1631296800000,
+      "end_date": "2021-10-01T18:00:00",
+      "tile_stamp": "comics",
+      "is_custom": true,
+      "bundles_sold": 3446.0,
+      "tile_name": "Humble Comic Bundle: TV & Movies by Titan Comics",
+      "short_marketing_blurb": "Comics based on epic movies/shows? Yes please!",
       "tile_image_information": {
-        "path": "images/storefront/master_images/EN_main_capsule_DDX.png"
+        "config": {
+          "image_type": "gcs",
+          "gcs": "images/humble_home/tvmoviestitancomics_bundle-product.jpg",
+          "imgix": {
+            "args": {},
+            "master_image": {
+              "image_type": "gcs",
+              "gcs": "",
+              "static": "",
+              "imgix": {}
+            }
+          }
+        }
       },
-      "rewards_split": 0.1,
-      "operating_systems": [
-        "windows"
+      "type": "bundle",
+      "highlights": [
+        "Pay What You Want",
+        "32 comics",
+        "$496 Value",
+        "Support Charity"
       ]
     },
     {
       "tile_logo_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/humble_home/aspyr-publisher-sale-2021-store-home-logo.png",
+          "gcs": "images/logos/hardcasecrime_bookbundle_logo-product.png",
           "imgix": {
             "args": {},
             "master_image": {
               "image_type": "gcs",
               "gcs": "",
+              "static": "",
               "imgix": {}
             }
           }
         }
       },
-      "machine_name": "aspyrpublishersale_2021",
-      "reverse_logo_and_sale_text": null,
+      "machine_name": "hardcasecrime_bookbundle",
+      "high_res_tile_image": "https://hb.imgix.net/8bcbd87d22592b15bf7dac001de3c077da875f69.jpg?auto=compress,format&fit=crop&h=600&w=1200&s=81ab64988a0818bbac181ee7a56c5b6c",
+      "disable_hero_tile": false,
+      "marketing_blurb": "Get <em>Stephen King Sampler</em>, <em>Deadly Beloved</em>, <em>The Girl Who Kicked the Hornet's Nest</em>, and more!",
+      "hover_title": "Pay What You Want",
+      "product_url": "/hard-case-crime-books",
+      "tile_image": "https://hb.imgix.net/8bcbd87d22592b15bf7dac001de3c077da875f69.jpg?auto=compress,format&fit=crop&h=353&w=616&s=d897d206b909bdc3c82f09388c8ad0d6",
       "high_res_tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/humble_home/aspyr-publisher-sale-2021-store-home-tile.png",
+          "gcs": "images/humble_home/hardcasecrime_bundle-product.jpg",
           "imgix": {
             "args": {},
             "master_image": {
               "image_type": "gcs",
               "gcs": "",
+              "static": "",
               "imgix": {}
             }
           }
         }
       },
-      "high_res_tile_image": "https://hb.imgix.net/bb5e116f922ba5c3e4a5bad7ceeb9ee63a623167.png?auto=compress,format&fit=crop&h=600&w=1200&s=f45850911a3b0d68b004ee18e3d2043f",
-      "fallback_logo_information": {
-        "config": null
-      },
-      "marketing_blurb": null,
-      "product_url": "/store/promo/aspyr-publisher-sale/",
-      "tile_image": "https://hb.imgix.net/bb5e116f922ba5c3e4a5bad7ceeb9ee63a623167.png?auto=compress,format&fit=crop&h=353&w=616&s=b733cd320613ba058c3faa77208ad039",
-      "category": "bundle/monthly",
-      "is_custom": true,
-      "fallback_store_sale_logo": "",
-      "highlights": [
-        "Get games and more!"
+      "hero_highlights": [
+        {
+          "heading": "$361 worth of awesome stuff",
+          "tooltip": "Get ebooks collectively valued at up to $361."
+        },
+        {
+          "heading": "Pay $1 or more",
+          "tooltip": "Name your price of $1 or more and increase your contribution to upgrade your bundle."
+        },
+        {
+          "heading": "DRM-free",
+          "tooltip": "Download the ebooks onto your favorite device to enjoy anywhere, anytime."
+        },
+        {
+          "heading": "Multi-format",
+          "tooltip": "These ebooks come in PDF and ePub file types to support many devices."
+        }
       ],
-      "use_wide_promo_logo": null,
+      "hover_highlights": [
+        "33 books",
+        "$361 Value"
+      ],
+      "fallback_store_sale_logo": "",
       "supports_partners": true,
-      "detailed_marketing_blurb": null,
-      "tile_logo": "https://hb.imgix.net/775834eaa9092a2290e0522dd9043afa9f3248b6.png?auto=compress,format&h=170&w=1200&s=5aaa346583dce99783f56393d55644b2",
-      "hide_end_date": null,
-      "end_date": "2021-06-14T17:00:00",
-      "tile_stamp": "store",
-      "tile_name": "Aspyr Publisher Sale",
-      "short_marketing_blurb": null,
-      "product_title": "Aspyr Publisher Sale",
+      "detailed_marketing_blurb": "The season is turning, and with it, the mood! Settle in for some dark tales of dark deeds, with our Crime Noir by Hard Case Crime bundle! Dive in and discover ebooks like <em>The Girl Who Kicked the Hornet's Nest</em>, <em>Deadly Beloved</em>, and a <em>Stephen King Sampler</em>. Plus, your purchase helps support the ACLU!",
+      "formattedDateInformation": {
+        "startDate": "2021-09-02 11:00:00 ",
+        "endDate": "2021-09-23 11:00:00 "
+      },
+      "tile_logo": "https://hb.imgix.net/8b1734de018cb5d217cd5e26b5ee36441946d966.png?auto=compress,format&h=170&w=1200&s=699d6feaefcf0372eb2b8fe0143f942c",
+      "tile_short_name": "Crime Noir by Hard Case Crime",
+      "start_date": 1630605600000,
+      "end_date": "2021-09-23T18:00:00",
+      "tile_stamp": "books",
+      "is_custom": true,
+      "bundles_sold": 4106.0,
+      "tile_name": "Humble Book Bundle: Crime Noir by Hard Case Crime",
+      "short_marketing_blurb": "Step into some dark, hard-hitting crime novels!",
       "tile_image_information": {
         "config": {
           "image_type": "gcs",
-          "gcs": "images/humble_home/aspyr-publisher-sale-2021-store-home-tile.png",
+          "gcs": "images/humble_home/hardcasecrime_bundle-product.jpg",
           "imgix": {
             "args": {},
             "master_image": {
               "image_type": "gcs",
               "gcs": "",
+              "static": "",
               "imgix": {}
             }
           }
         }
       },
-      "carousel_body_text": null,
-      "type": "storepagetile",
-      "is_store_page_layout": true,
-      "hide_sale_text": null
-    },
-    {
-      "tile_logo_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/farcry-sale-2021-store-home-logo.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "machine_name": "farcrysummerfranchisesale_2021",
-      "reverse_logo_and_sale_text": null,
-      "high_res_tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/farcry-sale-2021-store-home-tile.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "high_res_tile_image": "https://hb.imgix.net/c5a2fd1a1ba2ce8683e1699094dc641512fbc924.png?auto=compress,format&fit=crop&h=600&w=1200&s=d5907285c44b4deb532586ece9d8ae78",
-      "fallback_logo_information": {
-        "config": null
-      },
-      "marketing_blurb": null,
-      "product_url": "/store/promo/far-cry-franchise-sale/",
-      "tile_image": "https://hb.imgix.net/c5a2fd1a1ba2ce8683e1699094dc641512fbc924.png?auto=compress,format&fit=crop&h=353&w=616&s=fea2fa44c650fc98b45abb0740d6a478",
-      "category": "bundle/monthly",
-      "is_custom": true,
-      "fallback_store_sale_logo": "",
+      "type": "bundle",
       "highlights": [
-        "Get games and more!"
-      ],
-      "use_wide_promo_logo": null,
-      "supports_partners": true,
-      "detailed_marketing_blurb": null,
-      "tile_logo": "https://hb.imgix.net/133a0f73993618544c53cb0683d3fbc9077584f7.png?auto=compress,format&h=170&w=1200&s=f67ab7f79877a6b8cb0920fce1cbaa2d",
-      "hide_end_date": null,
-      "end_date": "2021-06-11T17:00:00",
-      "tile_stamp": "store",
-      "tile_name": "Far Cry Franchise Sale",
-      "short_marketing_blurb": null,
-      "product_title": "Far Cry Franchise Sale",
-      "tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/farcry-sale-2021-store-home-tile.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "carousel_body_text": null,
-      "type": "storepagetile",
-      "is_store_page_layout": true,
-      "hide_sale_text": null
-    },
-    {
-      "tile_logo_information": {
-        "config": null
-      },
-      "machine_name": "planetzoofranchisesale_2021",
-      "reverse_logo_and_sale_text": null,
-      "high_res_tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/storefront/master_images/planetzoo-franchise-sale-2021-store-grid-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "high_res_tile_image": "https://hb.imgix.net/4361477ddc9cfc1aa89c59cf6e470a05358de371.png?auto=compress,format&fit=crop&h=600&w=1200&s=1c45f424d83c91ae0078bdefb35d7fe1",
-      "fallback_logo_information": {
-        "config": null
-      },
-      "marketing_blurb": null,
-      "product_url": "/store/promo/planet-zoo-franchise-sale/",
-      "tile_image": "https://hb.imgix.net/4361477ddc9cfc1aa89c59cf6e470a05358de371.png?auto=compress,format&fit=crop&h=353&w=616&s=169b1f556c7ed3d9664b83bc182e8e1f",
-      "category": "bundle/monthly",
-      "is_custom": true,
-      "fallback_store_sale_logo": "",
-      "highlights": [
-        "Save BIG on Planet Zoo and additional DLC!"
-      ],
-      "use_wide_promo_logo": null,
-      "supports_partners": true,
-      "detailed_marketing_blurb": null,
-      "tile_logo": "",
-      "hide_end_date": null,
-      "end_date": "2021-06-14T17:00:00",
-      "tile_stamp": null,
-      "tile_name": "Planet Zoo Franchise Sale",
-      "short_marketing_blurb": null,
-      "product_title": null,
-      "tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/storefront/master_images/planetzoo-franchise-sale-2021-store-grid-product.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "carousel_body_text": null,
-      "type": "storepagetile",
-      "is_store_page_layout": true,
-      "hide_sale_text": null
-    },
-    {
-      "tile_logo_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/cdpr-publisher-sale-2021-store-home-logo.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "machine_name": "cdprpublishersale_2021",
-      "reverse_logo_and_sale_text": null,
-      "high_res_tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/cdpr-publisher-sale-2021-store-home-tile.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "high_res_tile_image": "https://hb.imgix.net/8dd01c71e9e4a8b820245159ce291f13d814e80a.png?auto=compress,format&fit=crop&h=600&w=1200&s=0799eaf487e7ac9a289e82b0c5140018",
-      "fallback_logo_information": {
-        "config": null
-      },
-      "marketing_blurb": null,
-      "product_url": "/store/promo/cdpr-publisher-sale/",
-      "tile_image": "https://hb.imgix.net/8dd01c71e9e4a8b820245159ce291f13d814e80a.png?auto=compress,format&fit=crop&h=353&w=616&s=5b78cd7a3be7dc4450597fa72b111060",
-      "category": "bundle/monthly",
-      "is_custom": true,
-      "fallback_store_sale_logo": "",
-      "highlights": [
-        "Get up to 85% off games like Cyberpunk 2077,The Witcher: Enhanced Edition Director's Cut,The Wither 3: Wild Hunt and more!"
-      ],
-      "use_wide_promo_logo": null,
-      "supports_partners": true,
-      "detailed_marketing_blurb": null,
-      "tile_logo": "https://hb.imgix.net/bc7bbb116192d6a887efbb693112e7bb6f7c5baa.png?auto=compress,format&h=170&w=1200&s=97bca48b3f06c52928b9f09fcfa6f8d4",
-      "hide_end_date": null,
-      "end_date": "2021-06-11T17:00:00",
-      "tile_stamp": "store",
-      "tile_name": "CD Projekt Red Publisher Sale",
-      "short_marketing_blurb": null,
-      "product_title": null,
-      "tile_image_information": {
-        "config": {
-          "image_type": "gcs",
-          "gcs": "images/humble_home/cdpr-publisher-sale-2021-store-home-tile.png",
-          "imgix": {
-            "args": {},
-            "master_image": {
-              "image_type": "gcs",
-              "gcs": "",
-              "imgix": {}
-            }
-          }
-        }
-      },
-      "carousel_body_text": null,
-      "type": "storepagetile",
-      "is_store_page_layout": true,
-      "hide_sale_text": null
+        "Pay What You Want",
+        "33 books",
+        "$361 Value",
+        "Support Charity"
+      ]
     }
   ]
 }
